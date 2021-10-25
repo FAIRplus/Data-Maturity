@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Markdown kitchen sink
-nav_order: 99
+nav_exclude: true
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -168,7 +168,7 @@ Term2
 
 : Second description of Term1 and Term2,
   possibly more than one line
-  
+
 ### More code
 
 ```
