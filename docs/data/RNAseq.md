@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RNAseq
-parent: Definitions
+parent: Data
 ---
 
 

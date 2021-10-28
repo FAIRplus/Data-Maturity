@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drugscreens
-parent: Definitions
+parent: Data
 ---
 
 # Drugscreens
