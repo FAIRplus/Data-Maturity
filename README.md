@@ -18,6 +18,8 @@ Refer to the [Just the Docs documentation](https://pmarsceill.github.io/just-the
 
 If you want to add content please create a new branch from this one. Include your name on the branch name, e.g. `just-the-docs-laura` so that it is easier to know who is the branch author. When you are ready to merge your changes open a pull request against this branch.
 
+The content of the website is in markdown files in the [/docs](./docs) directory whereas the images included in the markdown files are in [assets/images](./assets/images).
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
