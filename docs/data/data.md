@@ -3,6 +3,7 @@ layout: default
 title: Data
 permalink: /data
 has_children: true
+has_toc: false
 ---
 
 # Data
