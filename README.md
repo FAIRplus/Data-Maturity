@@ -1,4 +1,4 @@
-This repo contains a working version of a the iPC DREAM challenge website based on Jekyll and [Just The Docs](https://github.com/pmarsceill/just-the-docs) theme. It is hosted on GitHub pages and althought it is already available at https://inab.github.io/ipc-dream-challenge/ it may change or go down without previous notice as it's still work in progress.
+This branch contains a development version of the iPC DREAM challenge website. It is built based on Jekyll and the [Just The Docs](https://github.com/pmarsceill/just-the-docs) theme and it is hosted on GitHub pages. Although it is already available at https://inab.github.io/ipc-dream-challenge/ it may change or go down without previous notice as it's still work in progress.
 
 ## Installation
 
