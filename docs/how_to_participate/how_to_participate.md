@@ -4,6 +4,7 @@ title: How to Participate
 permalink: /how_to_participate
 has_children: true
 has_toc: false
+nav_order: 6
 ---
 
 # How to Participate

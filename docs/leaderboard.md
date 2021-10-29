@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Leaderboard
+nav_order: 8
 ---
 
 # Leaderboard
