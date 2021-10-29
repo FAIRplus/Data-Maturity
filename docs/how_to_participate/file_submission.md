@@ -2,6 +2,7 @@
 layout: default
 title: File submission
 parent: How to Participate
+nav_order: 2
 ---
 
 # File submission

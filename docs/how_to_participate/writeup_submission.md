@@ -2,6 +2,7 @@
 layout: default
 title: Writeup submission
 parent: How to Participate
+nav_order: 3
 ---
 
 # Writeup submission

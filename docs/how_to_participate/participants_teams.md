@@ -2,6 +2,7 @@
 layout: default
 title: Participants and Teams
 parent: How to Participate
+nav_order: 1
 ---
 
 # Participants and Teams
