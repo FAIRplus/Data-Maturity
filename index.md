@@ -57,26 +57,26 @@ The challenge organizers will invite representatives from the top-performing tea
 
 ## Challenge Organisers
 
-| Name | Institution | Role |
-|------|-------------|------|
-| Sander van Hooff | [Princess Máxima Center](https://www.prinsesmaximacentrum.nl/en) | Challenge Organisation |
-| Jan Molenaar | [Princess Máxima Center](https://www.prinsesmaximacentrum.nl/en) | Challenge Organisation |
-| Qing Zhong | [Children’s Medical Research Institute](https://www.cmrijeansforgenes.org.au/) | Challenge Organisation |
-| Phil Robinson | [Children’s Medical Research Institute](https://www.cmrijeansforgenes.org.au/) | Challenge Organisation |
-| Heinz Köeppl | [Technical Darmstadt University](https://www.etit.tu-darmstadt.de/) | Challenge Organisation |
-| [Rosa Hernansaiz-Ballesteros](https://saezlab.org/person/rosa-hernansaiz-ballesteros/) | [Heidelberg University](https://www.uni-heidelberg.de/en) | Challenge Organisation |
-| [Attila Gabor](http://saezlab.org/person/attila-gabor/) | [Heidelberg University](https://www.uni-heidelberg.de/en) | Challenge Organisation |
-| [Julio Saez-Rodriguez](https://saezlab.org/person/julio-saez-rodriguez/) | [Heidelberg University](https://www.uni-heidelberg.de/en) | Challenge Organisation |
-| Mario Failli | [Telethon Institute of Genetics and Medicine (TIGEM)](https://www.tigem.it/) | Challenge Organisation |
-| Diego di Bernardo | [Telethon Institute of Genetics and Medicine (TIGEM)](https://www.tigem.it/) | Challenge Organisation |
-| Jannis Born | [IBM Research Zurich](https://www.zurich.ibm.com/) | Challenge Organisation |
-| Nikita Janakarajan | [IBM Research Zurich](https://www.zurich.ibm.com/) | Challenge Organisation |
-| Maria Rodriguez Martinez | [IBM Research Zurich](https://www.zurich.ibm.com/)) | Challenge Organisation |
-| [Asier Gonzalez-Uriarte](https://www.bsc.es/gonzalez-uriarte-asier) | [Barcelona Supercomputer Center](https://www.bsc.es/) | Challenge Infrastructure |
-| [Laura Portell Silva](https://www.bsc.es/portell-silva-laura) | [Barcelona Supercomputer Center](https://www.bsc.es/) | Challenge Infrastructure |
-| [Alejandro Canosa](https://www.bsc.es/canosa-alejandro) | [Barcelona Supercomputer Center](https://www.bsc.es/) | Challenge Infrastructure |
-| [Laura Rodriguez](https://www.bsc.es/rodriguez-navas-laura) | [Barcelona Supercomputer Center](https://www.bsc.es/) | Challenge Infrastructure |
-| [Salvador Capella](https://www.bsc.es/capella-gutierrez-salvador) | [Barcelona Supercomputer Center](https://www.bsc.es/) | Challenge Infrastructure |
+| Name                                                                                                | Institution                                                                    | Role                     |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------|
+| [Sander van Hooff](https://research.prinsesmaximacentrum.nl/en/team-members/sander-van-hooff)       | [Princess Máxima Center](https://www.prinsesmaximacentrum.nl/en)               | Challenge Organisation   |
+| [Jan Molenaar](https://research.prinsesmaximacentrum.nl/en/team-members/jan-molenaar)               | [Princess Máxima Center](https://www.prinsesmaximacentrum.nl/en)               | Challenge Organisation   |
+| [Qing Zhong](https://www.cmrijeansforgenes.org.au/researchers/qing-zhong)                           | [Children’s Medical Research Institute](https://www.cmrijeansforgenes.org.au/) | Challenge Organisation   |
+| [Phil Robinson](https://www.cmrijeansforgenes.org.au/researchers/phil-robinson)                     | [Children’s Medical Research Institute](https://www.cmrijeansforgenes.org.au/) | Challenge Organisation   |
+| [Heinz Köeppl](https://www.bcs.tu-darmstadt.de/team_sos/koepplheinz_sos.en.jsp)                     | [Technical Darmstadt University](https://www.etit.tu-darmstadt.de/)            | Challenge Organisation   |
+| [Rosa Hernansaiz-Ballesteros](https://saezlab.org/person/rosa-hernansaiz-ballesteros/)              | [Heidelberg University](https://www.uni-heidelberg.de/en)                      | Challenge Organisation   |
+| [Attila Gabor](http://saezlab.org/person/attila-gabor/)                                             | [Heidelberg University](https://www.uni-heidelberg.de/en)                      | Challenge Organisation   |
+| [Julio Saez-Rodriguez](https://saezlab.org/person/julio-saez-rodriguez/)                            | [Heidelberg University](https://www.uni-heidelberg.de/en)                      | Challenge Organisation   |
+| Mario Failli                                                                                        | [Telethon Institute of Genetics and Medicine (TIGEM)](https://www.tigem.it/)   | Challenge Organisation   |
+| [Diego di Bernardo](https://www.tigem.it/research/research-faculty/di-bernardo)                     | [Telethon Institute of Genetics and Medicine (TIGEM)](https://www.tigem.it/)   | Challenge Organisation   |
+| [Jannis Born](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JAB)              | [IBM Research Zurich](https://www.zurich.ibm.com/)                             | Challenge Organisation   |
+| Nikita Janakarajan                                                                                  | [IBM Research Zurich](https://www.zurich.ibm.com/)                             | Challenge Organisation   |
+| [Maria Rodriguez Martinez](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-MRM) | [IBM Research Zurich](https://www.zurich.ibm.com/))                            | Challenge Organisation   |
+| [Asier Gonzalez-Uriarte](https://www.bsc.es/gonzalez-uriarte-asier)                                 | [Barcelona Supercomputer Center](https://www.bsc.es/)                          | Challenge Infrastructure |
+| [Laura Portell Silva](https://www.bsc.es/portell-silva-laura)                                       | [Barcelona Supercomputer Center](https://www.bsc.es/)                          | Challenge Infrastructure |
+| [Alejandro Canosa](https://www.bsc.es/canosa-alejandro)                                             | [Barcelona Supercomputer Center](https://www.bsc.es/)                          | Challenge Infrastructure |
+| [Laura Rodriguez](https://www.bsc.es/rodriguez-navas-laura)                                         | [Barcelona Supercomputer Center](https://www.bsc.es/)                          | Challenge Infrastructure |
+| [Salvador Capella](https://www.bsc.es/capella-gutierrez-salvador)                                   | [Barcelona Supercomputer Center](https://www.bsc.es/)                          | Challenge Infrastructure |
 
 ## Acknowledgements
 The organisers appreciate the help and feedback from [Jovan Tanevski](http://saezlab.org/person/jovan-tanevski/), [Bence Szalai](https://www.linkedin.com/in/bence-szalai-ba403878/?locale=de_DE), [Ricardo Ramirez-Flores](http://saezlab.org/person/ricardo-o-ramirez-flores/), and [Natalie de Souza](https://imsb.ethz.ch/research/picotti/PeoplePicotti/natalie-de-souza.html) .
