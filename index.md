@@ -21,7 +21,7 @@ These submissions will NOT be considered for the final scoring.
 
 During the **validation phase**, submitted predictions will be compared against the test dataset. Scores will NOT be reported on the public leaderboard, but they will be reported by email. Participants can submit a maximum of three scorable submissions, and the LAST submission will be considered as the final one. We will consider the LAST submission as the final one. If you want to use the last submission from the leaderboard phase, please submit it again. Models will be ranked according to their scores and top performers will be announced for each <span style="color:orange;font-weight:bold">subchallenge</span>. Predictions MUST be completed with a writing up of the method and the code SHOULD be available.
 
-![Figure3. Challenge timeline](assets/images/overview/time_line_updated.png)
+![Figure3. Challenge timeline](assets/images/overview/timeline.png)
 _Figure 3. Challenge timeline_
 
 | Milestone | Date |
