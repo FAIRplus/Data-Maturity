@@ -9,7 +9,15 @@ permalink: /
 ![Banner](assets/images/overview/banner_draft.png)
 
 ## Overview
-Main points to cover: Paediatric cancer, focusing on Neuroblastoma, organoids as cancer models, drug response/treatments
+
+Paediatric cancer is among the major causes of death in young children. One of the most prevalent paediatric tumor types is neuroblastoma which is often diagnosed in very young children and originates in the developing sympathetic nervous system. Despite recent advances in the neuroblastoma treatment, children diagnosed with high-risk neuroblastoma have 5-year survival rates of only 50%.
+
+One of the hurdles for improving treatment is the genetic and molecular heterogeneity of neuroblastoma tumors. This heterogeneity means that not all neuroblastoma tumors will react similarly to drug treatment, especially for drugs designed against very particular targets.  
+
+To investigate this heterogeneity we have available in vitro cell line models that were established from neuroblastoma tumors. A drawback of these (so-called classical) cell lines is that they are grown in conditions that are very different from a tumor. Organoids are an attempt to overcome these short-comings. They are grown in conditions that more closely resemble the in vivo tumor situation.  
+
+To better understand the interaction between neuroblastoma heterogeneity and drug response, we subjected multiple neuroblastoma derived cell lines and organoids to a large panel of drugs (many of which are not yet used in current treatment) and determined their sensitivity to these drugs. At the same time gene and protein expression profiles of these cell lines and organoids were measured. This opens up the possibility to link the expression of genes and proteins to the drug response and build predictive models. The ultimate aim would be to use these models to predict sensitivity of neuroblastoma tumors in patients to help clinicians select the treatment best suited to the individual patient.
+
 
 ## Timeline
 The Challenge will consist of 3 phases: open/training, leaderboard, and validation.
