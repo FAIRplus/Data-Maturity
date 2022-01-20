@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: iPC DREAM challenge
-description: Community bechmarking of drug sensitivity prediction from transcriptomics data
+title: FAIRplus Data Maturity
+description: FAIRplus Data Maturity webpage
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Edit on GitHub":
-    - "//github.com/inab/ipc-dream-challenge/tree/just-the-docs-laura"
+    - "//github.com/lauportell/FAIRplus-Data-Maturity/tree/FAIRplus-draft"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
