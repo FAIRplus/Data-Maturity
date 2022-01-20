@@ -22,7 +22,7 @@ A life-sciences domain-specific, indicator-based dataset maturity model to serve
 
 ## Maturity levels
 
-![Levels](assets/images/overview/levels_definition.png)
+![Levels](assets/images/overview/levels_definition.JPG)
 
 ## Maturity Model
 
