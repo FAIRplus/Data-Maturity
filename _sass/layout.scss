@@ -26,13 +26,10 @@
 .main {
   @include mq(md) {
     position: relative;
-    max-width: $content-width;
    }
 
   @include mq(lg) {
-    margin-left: calc(
-      (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
-    );
+    margin-left: $nav-width;
   }
 }
 
