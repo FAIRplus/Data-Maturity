@@ -1,4 +1,4 @@
-This branch contains a development version of the iPC DREAM challenge website. It is built based on Jekyll and the [Just The Docs](https://github.com/pmarsceill/just-the-docs) theme and it is hosted on GitHub pages. Although it is already available at https://inab.github.io/ipc-dream-challenge/ it may change or go down without previous notice as it's still work in progress.
+This branch contains a development version of the iPC DREAM challenge website. It is built based on Jekyll and the [Just The Docs](https://github.com/pmarsceill/just-the-docs) theme and it is hosted on GitHub pages.
 
 ## Installation
 
@@ -16,7 +16,7 @@ Refer to the [Just the Docs documentation](https://pmarsceill.github.io/just-the
 
 ## Contributing
 
-If you want to add content please create a new branch from this one. Include your name on the branch name, e.g. `just-the-docs-laura` so that it is easier to know who is the branch author. When you are ready to merge your changes open a pull request against this branch.
+If you want to add content please create a new branch from this one. Include your name on the branch name so that it is easier to know who is the branch author. When you are ready to merge your changes open a pull request against this branch.
 
 The content of the website is in markdown files in the [/docs](./docs) directory whereas the images included in the markdown files are in [assets/images](./assets/images).
 
