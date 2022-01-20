@@ -26,7 +26,6 @@
 .main {
   @include mq(md) {
     position: relative;
-    max-width: $content-width;
    }
 
   @include mq(lg) {
