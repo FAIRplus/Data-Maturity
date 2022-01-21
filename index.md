@@ -8,17 +8,19 @@ permalink: /
 
 ![Banner](assets/images/overview/banner_draft.JPG)
 
-## FAIRplus Dataset Maturity Model (DSM)
+## FAIRplus Dataset Maturity (DSM) Model
 
-A life-sciences domain-specific, indicator-based dataset maturity model to serve as both an assessment and a maturation guide towards FAIR maturity of a dataset. The levels within this Maturity Model contain the metadata required to achieve a certain level of Dataset FAIRness (as outlined in the FAIR Metadata Requirements Model) along with the FAIR benefits achieved at each level.
+The FAIRplus-DSM model is intended as a comprehensive reference model for state-of-FAIRness improvement in research datasets. Based on the FAIR guiding principles, the DSM model defines and classifies requirements that constitute an incremental path towards improving FAIRness level for a given research dataset.
 
 ## The three dimensions of FAIR Data Maturation
+
+![Dimensions](assets/images/overview/dimensions.JPG)
+
+The model is comprised of three categories of requirements as described below. These requirements are prescribed by a set of [indicators](docs/Indicators.md) defined for each level
 
 - **Content-related**: What is reported in the dataset & the metadata.
 - **Representation and format**: How the data object & metadata object are represented and formatted.
 - **Hosting environment capabilities**: What capabilities of the hosting environment that enables and supports the use of FAIR data.
-
-![Dimensions](assets/images/overview/dimensions.JPG)
 
 ## Maturity levels
 
