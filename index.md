@@ -16,7 +16,7 @@ The FAIRplus-DSM model is intended as a comprehensive reference model for state-
 
 ![Dimensions](assets/images/overview/dimensions.JPG)
 
-The model is comprised of three categories of requirements as described below. These requirements are prescribed by a set of [indicators](docs/Indicators.md) defined for each level
+The model is comprised of three categories of requirements as described below. These requirements are prescribed by a set of [indicators](docs/Indicators.md) defined for each level.
 
 - **Content-related**: What is reported in the dataset & the metadata.
 - **Representation and format**: How the data object & metadata object are represented and formatted.
