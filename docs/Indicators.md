@@ -8,7 +8,7 @@ nav_order: 2
 
 ## <span style="color:purple;font-weight:bold">Level 0</span>
 
-| Category | Identifier | Identifier description |
+| Category | Identifier | Indicator description |
 | -------- | ---------- | ---------------------- |
 | Content | [F+MM-0.1C] | The Data object or dataset as an entity is undefined or undescribed. |
 | Content | [F+MM-0.2C] | No metadata available. |
@@ -19,7 +19,7 @@ nav_order: 2
 
 ## <span style="color:purple;font-weight:bold">Level 1</span>
 
-| Category | Identifier | Identifier description |
+| Category | Identifier | Indicator description |
 | -------- | ---------- | ---------------------- |
 | Content | [F+MM-1.1C] | Data object is defined and it is assigned a locally unique and persistent identifier. |
 | Content | [F+MM-1.2C] | Metadata for the data object includes generic descriptive elements of the data object as a whole (e.g., name, description, keywords). |
@@ -32,7 +32,7 @@ nav_order: 2
 
 ## <span style="color:purple;font-weight:bold">Level 2</span>
 
-| Category | Identifier | Identifier description |
+| Category | Identifier | Indicator description |
 | -------- | ---------- | ---------------------- |
 | Content | [F+MM-2.1C] | Each study variable is reported in a single dataset field / variable. |
 | Content | [F+MM-2.2C] | Metadata includes dataset field/variable level metadata (e.g. field name, field description and type). |
@@ -46,7 +46,7 @@ nav_order: 2
 
 ## <span style="color:purple;font-weight:bold">Level 3</span>
 
-| Category | Identifier | Identifier description |
+| Category | Identifier | Indicator description |
 | -------- | ---------- | ---------------------- |
 | Content | [F+MM-3.1C] | Data values (i.e. field/variable values) are standardized against community standard controlled vocabularies and/or ontologies. |
 | Content | [F+MM-3.2C] | Metadata includes license information under which data can be reused. |
@@ -61,7 +61,7 @@ nav_order: 2
 
 ## <span style="color:purple;font-weight:bold">Level 4</span>
 
-| Category | Identifier | Identifier description |
+| Category | Identifier | Indicator description |
 | -------- | ---------- | ---------------------- |
 | Content | [F+MM-4.1C] | Dataset(s) are semantically typed. |
 | Content | [F+MM-4.2C] | Dataset(s) fields are semantically typed. |
@@ -73,7 +73,7 @@ nav_order: 2
 
 ## <span style="color:purple;font-weight:bold">Level 5</span>
 
-| Category | Identifier | Identifier description |
+| Category | Identifier | Indicator description |
 | -------- | ---------- | ---------------------- |
 | Content | [F+MM-5.1C] | Domain model entities are defined and harmonized against enterprise managed master data entities (e.g. Observation Features Types, Subject Types, Domain Types). |
 | Content | [F+MM-5.2C] | Field/Variable Level data is linked and harmonized against enterprise managed Reference Data (e.g. MDR registered Data Elements). |
