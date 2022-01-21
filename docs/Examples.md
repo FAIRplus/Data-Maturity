@@ -4,6 +4,6 @@ title: Examples
 nav_order: 3
 ---
 
-## Examples
+# Examples
 
 This page is under construction.
