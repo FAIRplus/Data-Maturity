@@ -1,25 +1,18 @@
-This branch contains a development version of the FAIRplus Maturity website. It is built based on Jekyll and the [Just The Docs](https://github.com/pmarsceill/just-the-docs) theme and it is hosted on GitHub pages.
+<img src="https://fairplus-project.eu/images/fairplus-logo.png" alt="RDMkit logo" width="450"/>
 
-## Installation
+# FAIRplus Dataset Maturity (DSM) Model
 
-If you want to contribute to the website we recommend you install [docker](https://docs.docker.com/engine/install/) and [Docker Compose (**Note:** use version 1.x)](https://docs.docker.com/compose/install/) and use the latter to build and deploy the website locally as follows:
-
-    $ docker-compose up
-
-This start a jekyll server that makes the content available at http://0.0.0.0:4000/.
-
-As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-## Just the Docs documentation
-
-Refer to the [Just the Docs documentation](https://pmarsceill.github.io/just-the-docs/) for usage and customisation information.
+The FAIRplus-DSM model is intended as a comprehensive reference model for state-of-FAIRness improvement in research datasets. Based on the FAIR guiding principles, the DSM model defines and classifies requirements that constitute an incremental path towards improving FAIRness level for a given research dataset.
 
 ## Contributing
 
-If you want to add content please create a new branch from this one. When you are ready to merge your changes open a pull request against this branch.
+You are welcome to contribute to the content. The material is developed in Markdown and a jekyll template ([Just the docs](https://pmarsceill.github.io/just-the-docs/)) is used to format the Markdown pages and generate the website (https://fairplus.github.io/Data-Maturity/).
 
-The content of the website is in markdown files in the [/docs](./docs) directory whereas the images included in the markdown files are in [assets/images](./assets/images).
+- If you want to add content please create a new branch from this one. When you are ready to merge your changes open a pull request against this branch.
+- The content of the website is in markdown files in the [/docs](./docs) directory whereas the images included in the markdown files are in [assets/images](./assets/images).
+- Refer to the [Just the Docs documentation](https://pmarsceill.github.io/just-the-docs/) for usage and customisation information.
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+- The FAIRplus DSM Model content is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
+- The jekyll theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
