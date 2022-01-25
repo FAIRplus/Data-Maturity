@@ -6,7 +6,7 @@ The FAIRplus-DSM model is intended as a comprehensive reference model for state-
 
 ## Contributing
 
-You are welcome to contribute to the content. The material is developed in Markdown and a jekyll template ([Just the docs](https://pmarsceill.github.io/just-the-docs/)) is used to format the Markdown pages and generate the website (https://fairplus.github.io/Data-Maturity/).
+You are welcome to contribute to the content. The material is developed in markdown and a jekyll template ([Just the docs](https://pmarsceill.github.io/just-the-docs/)) is used to format the markdown pages and generate the website (https://fairplus.github.io/Data-Maturity/).
 
 - If you want to add content please create a new branch from this one. When you are ready to merge your changes open a pull request against this branch.
 - The content of the website is in markdown files in the [/docs](./docs) directory whereas the images included in the markdown files are in [assets/images](./assets/images).
