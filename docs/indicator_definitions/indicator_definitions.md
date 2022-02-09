@@ -6,4 +6,4 @@ has_children: true
 permalink: /docs/indicator_definitions
 ---
 
-# Indicator extensive definitions
+# Indicator definitions
