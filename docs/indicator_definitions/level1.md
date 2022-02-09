@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Level 1
-parent: Indicators extensive definitions
+parent: Indicators definitions
 nav_order: 1
 ---
 
