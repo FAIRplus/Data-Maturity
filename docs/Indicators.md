@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Indicators descriptions
+title: Indicators
 nav_order: 2
 ---
 
-# Indicators descriptions
+# Indicators
 
 ## <span style="color:purple;font-weight:bold">Level 0</span>
 
