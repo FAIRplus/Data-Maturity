@@ -57,9 +57,9 @@ nav_order: 1
 
 | Identifer | F+MM-1.1H |
 | ----------| ----------|
-| Name | Data retrieval capability. |
-| Description | Data object and its metadata record are indexed and retrievable via its locally unique identifier by a standardized communication protocol. Given a local identifier of the data object, it should be retrievable using a standard communication protocol such as HTTP or FTP. |
-| Related FAIR indicators | RDA-A1-04D, FsF-A1-03D |
+| Name | Data object and metadata are retrievable by a standardized communication protocol. |
+| Description | Data object and its metadata records are indexed and retrievable via its locally unique identifier by a standardized communication protocol. Given a local identifier of the data object, it should be retrievable using a standard communication protocol such as HTTP or FTP. |
+| Related FAIR indicators | RDA-A1-04D, RDA-A1-03M, FsF-A1-03D, FsF-A1-02M |
 
 ### F+MM-1.2H
 
