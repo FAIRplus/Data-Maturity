@@ -14,7 +14,7 @@ nav_order: 1
 | Identifer | F+MM-1.1C |
 | ----------| ----------|
 | Name | Data object is defined and it is assigned a locally unique identifier. |
-| Description | The data object is assigned to a locally unique identifier such that it can be referenced unambiguously and therefore there are no two identical identifiers that identify the same data object at a project level. Locally unique means an identifier should be associated with only one reosurce in the local project. In level 1, it does not need to be globally unique. |
+| Description | The data object is assigned to a locally unique identifier such that it can be referenced unambiguously and therefore there are no two identical identifiers that identify the same data object at a project level. Locally unique means an identifier should be associated with only one resource in the local project. In level 1, it does not need to be globally unique. |
 | Related FAIR indicators | None |
 
 ### F+MM-1.2C
@@ -22,7 +22,7 @@ nav_order: 1
 | Identifer | F+MM-1.2C |
 | ----------| ----------|
 | Name | Metadata for the data object includes generic descriptive elements of the data object as a whole. |
-| Description | Metadata includes descriptive information about the data object, which includes the minimum descrptive information requrired to enable data finding (e.g., name, description, keywords). |
+| Description | Metadata includes descriptive information about the data object, which includes the minimum descriptive information requrired to enable data finding (e.g., name, description, keywords). |
 | Related FAIR indicators | F2F-F2-01M |
 
 ### F+MM-1.3C
@@ -58,7 +58,7 @@ nav_order: 1
 | Identifer | F+MM-1.1H |
 | ----------| ----------|
 | Name | Data retrieval capability. |
-| Description | Data object and its metadata record are indexed and retrievable via its locally unique and persistent identifier by a standardized communication protocol. Given a local identifier of a data object, it should be retrievable using a standard communication protocol such as HTTP or FTP. |
+| Description | Data object and its metadata record are indexed and retrievable via its locally unique identifier by a standardized communication protocol. Given a local identifier of the data object, it should be retrievable using a standard communication protocol such as HTTP or FTP. |
 | Related FAIR indicators | RDA-A1-04D, FsF-A1-03D |
 
 ### F+MM-1.2H
@@ -66,5 +66,5 @@ nav_order: 1
 | Identifer | F+MM-1.2H |
 | ----------| ----------|
 | Name | The standardized communication protocol for data / metadata retrieval is open, free and universally implementable. |
-| Description | Protocol free or charge which facilitates access of the data such as HTTP, FTP (e.g. simple links for download). |
+| Description | Protocol free of charge which facilitates access of the data such as HTTP, FTP (e.g. simple links for download). |
 | Related FAIR indicators | RDA-A1.1-01D |
