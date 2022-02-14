@@ -1,12 +1,17 @@
-
-
+---
+layout: default
+title: Level 1
+parent: Maturity levels
+nav_order: 1
+---
 
 # <span style="color:purple;font-weight:bold">Level 1</span>
 
 ## Description
+
 This level of maturity 
 
-##Indicators
+### Indicators
 
 | Category | Identifier | Indicator description |
 | -------- | ---------- | ---------------------- |
