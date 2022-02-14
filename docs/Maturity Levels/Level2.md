@@ -5,7 +5,7 @@ parent: Maturity levels
 nav_order: 2
 ---
 
-## <span style="color:purple;font-weight:bold">Level 2</span>
+# <span style="color:purple;font-weight:bold">Level 2</span>
 
 ## Description
 
