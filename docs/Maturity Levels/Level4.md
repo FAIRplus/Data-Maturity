@@ -2,7 +2,7 @@
 layout: default
 title: Level 4
 parent: Maturity levels
-nav_order: 4
+nav_order: 5
 ---
 
 # <span style="color:purple;font-weight:bold">Level 4</span>
