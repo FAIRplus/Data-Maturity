@@ -16,8 +16,6 @@ In the definitions of the FAIRplus-DSM indicators, you will find a link to the c
 
 ### F+MM-1.1C
 
-@@include[F+MM-1.1C.md](docs/F+MM-1.1C.md)
-
 | Identifer | F+MM-1.1C |
 | ----------| ----------|
 | Name | Data object is defined and it is assigned a locally unique identifier. |
