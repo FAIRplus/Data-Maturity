@@ -1,4 +1,10 @@
-### F+MM-3.2C
+---
+layout: default
+title: F+MM-3.2C
+nav_exclude: True
+---
+
+## F+MM-3.2C
 
 | Identifier | F+MM-3.2C |
 | --------- | ----------|
