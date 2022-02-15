@@ -11,7 +11,7 @@ nav_exclude: True
 | Name | Representation of metadata conforms to a locally defined model/schema. |
 | Maturity Level | 1 |
 | Category | Metadata Representation requirements |
-| Granularity Level | Dataset-level |
+| Granularity Level | Dataset |
 | Related FAIR Principle | |
 | Description | The metadata related to the data is represented in a locally defined model such as dictionary of key/value pairs. In level 1, it is not necessary to use a starndarized metadata schema, but a local schema. |
 | Cross-reference FAIR Indicators | |
