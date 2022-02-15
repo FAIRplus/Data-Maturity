@@ -122,3 +122,10 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+collections_dir: docs
+collections:
+  indicators:
+    output: true
+  levels:
+    output: true
