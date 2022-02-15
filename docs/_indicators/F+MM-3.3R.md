@@ -1,4 +1,10 @@
-### F+MM-3.3R
+---
+layout: default
+title: F+MM-3.3R
+nav_exclude: True
+---
+
+## F+MM-3.3R
 
 | Identifier | F+MM-3.1R |
 | --------- | ----------|
