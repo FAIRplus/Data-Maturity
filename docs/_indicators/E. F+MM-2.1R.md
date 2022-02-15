@@ -11,7 +11,7 @@ nav_exclude: True
 | Name | Project-level metadata is defined and conforms to a locally defined domain model. |
 | Maturity Level | 2 |
 | Category | Metadata Representation requirements |
-| Granularity Level | Dataset |
+| Granularity Level | Project |
 | Related FAIR Principle | |
-| Description |  Metadata is structured using a domain model standarized for the project that links the data content across datasets. |
+| Description |  A domain model or schema is established to provide contextual information about the relationships between data content across datasets. |
 | Cross-reference FAIR indicators | |
