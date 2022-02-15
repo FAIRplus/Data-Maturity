@@ -1,4 +1,10 @@
-### F+MM-1.1C
+---
+layout: default
+title: F+MM-1.1C
+nav_exclude: True
+---
+
+# F+MM-1.1C
 
 | Identifier | F+MM-1.1C |
 | --------- | ----------|
