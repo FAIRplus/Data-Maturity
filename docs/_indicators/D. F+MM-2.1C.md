@@ -13,5 +13,5 @@ nav_exclude: True
 | Category | Content-related requirements |
 | Granularity Level | Dataset |
 | Related FAIR Principle | |
-| Description | In level 2, the data object is structured in fields and conforms a dataset. Each individual data variable should be reported in a single field, conforming a structured dataset. |
+| Description | In level 2, the data object is structured in fields and conforms a dataset. |
 | Cross-reference FAIR indicators | |
