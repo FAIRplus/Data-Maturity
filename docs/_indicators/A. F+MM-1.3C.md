@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | F+MM-1.3C |
 | ---------- | ----------|
-| Name | Metadata record includes general descriptove project-level summary information . |
+| Name | Metadata record includes general descriptove project-level summary information. |
 | Maturity Level | 1 |
 | Category | Content-related requirements |
 | Granularity Level | Project |
