@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-1.2R |
 | ---------- | ----------|
-| Name | Metadata available in a machine-readable format (e.g. CSV, JSON, XML, or similar). |
+| Name | Metadata available in a machine-readable format. |
 | Maturity Level | 1 |
 | Category | Metadata Representation requirements |
 | Granularity Level | |
 | Related FAIR Principle | |
-| Description |  Metadata should be readable and interpretable by machines without any requirements such as specific translators or mappings. |
+| Description |  Metadata should be readable and interpretable by machines without any requirements such as specific translators or mappings such as CSV, JSON, XML, or similar. |
 | Cross-reference FAIR indicators | RDA-I1-02M, FsF-I1-01M |
