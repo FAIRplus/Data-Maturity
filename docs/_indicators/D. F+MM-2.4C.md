@@ -1,14 +1,14 @@
 ---
 layout: default
-title: F+MM-2.3C
+title: F+MM-2.4C
 nav_exclude: True
 ---
 
-## F+MM-2.3C
+## F+MM-2.4C
 
-| Identifier | F+MM-2.3C |
+| Identifier | F+MM-2.4C |
 | ---------- | ----------|
-| Name | Data values are standardized against a locally defined dictionary of terms within and across datasets. |
+| Name | Dataset Field Values are standardized against a locally defined dictionary of terms within and across datasets. |
 | Maturity Level | 2 |
 | Category | Content-related requirements |
 | Granularity Level | Dataset Field Values |
