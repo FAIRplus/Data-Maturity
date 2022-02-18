@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | F+MM-1.2C |
 | ---------- | ----------|
-| Name | Metadata for the data object includes generic descriptive elements of the data object as a whole. |
+| Name | Metadata record includes generel descriptive properties of the Data Object. |
 | Maturity Level | 1 |
 | Category | Content-related requirements |
 | Granularity Level | Dataset |
