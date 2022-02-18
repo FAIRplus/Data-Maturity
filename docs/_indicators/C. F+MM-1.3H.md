@@ -1,12 +1,12 @@
 ---
 layout: default
-title: F+MM-1.2H
+title: F+MM-1.3H
 nav_exclude: True
 ---
 
-## F+MM-1.2H
+## F+MM-1.3H
 
-| Identifier | F+MM-1.2H |
+| Identifier | F+MM-1.3H |
 | ---------- | ----------|
 | Name | The standardized communication protocol for data / metadata retrieval is open, free and universally implementable. |
 | Maturity Level | 1 |
