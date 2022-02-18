@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | F+MM-2.2H |
 | ---------- | ----------|
-| Name | Metadata is registered in a searchable resource. |
+| Name | Metadata is registered or indexed in a searchable resource. |
 | Maturity Level | 2 |
 | Category | Hosting Environment related requirements |
 | Granularity Level | Dataset Field Values |
