@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Description
 
-This level of maturity 
+This level of maturity is used for single-use of the data. When the maturity level is 0, there is no potential reuse of the beyond the lifetime of the research project.
 
 ### Indicators
 
