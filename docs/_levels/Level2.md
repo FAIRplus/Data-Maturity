@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Description
 
-This level of maturity is at **project level**. At this level, data objects within the project are structured in fields conforming a dataset. The datasets are consistently described against a locally defined schema, controlled vocabullaries, and hosted in an environment offering data catalogue level searching capabilities.
+This level of maturity is defined at **project level**. At this level, data objects within the project are structured in fields conforming a dataset. The datasets are consistently described against a locally defined schema, controlled vocabullaries, and hosted in an environment offering data catalogue level searching capabilities.
 
 ### Indicators
 
