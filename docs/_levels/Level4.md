@@ -17,8 +17,9 @@ This level of maturity
 | -------- | ---------- | ---------------------- |
 | Content | [F+MM-4.1C] | Dataset(s) are semantically typed. |
 | Content | [F+MM-4.2C] | Dataset(s) fields are semantically typed. |
-| Content | [F+MM-4.3C] | Master Data Entities across all datasets are defined. |
-| Content | [F+MM-4.4C] | Relevant attributes are provided to allow reuse of the data between communities. |
-| Representation and format |  [F+MM-4.1R] | Metadata is represented in a semantic machine interpretable form. |
-| Representation and format |  [F+MM-4.2R] | Master entity models are formally represented. |
+| Content | [F+MM-4.3C] | Master Data entity types reported in the datasets are identifiable via standard identifiers. |
+| Content | [F+MM-4.4C] | Master Data entity attributes are defined and standardised across datasets. |
+| Representation and format |  [F+MM-4.1R] | Master entity models are formally represented. |
+| Representation and format |  [F+MM-4.2R] | Dataset metadata is represented in a semantic machine interpretable form. |
+| Representation and format |  [F+MM-4.3R] | License information is in a machine readable format. |
 | Hosting environmnet capabilities | [F+MM-4.1H] | *Search capability*:<br/> Cross-study data is queryable via harmonized master data entities and their attributes. |
