@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Description
 
-This level of maturity is at **data object level**. In level 1, data is identifiable as individual generic data objects that are described by generic metadata elements. Hosting environment offers limited retrieval capabilities.
+This level of maturity is defined at **data object level**. In level 1, data is identifiable as individual generic data objects that are described by generic metadata elements. Hosting environment offers limited retrieval capabilities.
 
 ### Indicators
 
