@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Description
 
-This level of maturity 
+This level of maturity is defined at **cross-community level**. At the level, the focus is on cross-domain interoperability and is meant to be the level required for larger harmonization and integration projects.
 
 ### Indicators
 
