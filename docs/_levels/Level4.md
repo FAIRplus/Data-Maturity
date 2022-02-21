@@ -22,4 +22,4 @@ This level of maturity is defined at **cross-community level**. At the level, th
 | Representation and format |  [F+MM-4.1R] | Master entity models are formally represented. |
 | Representation and format |  [F+MM-4.2R] | Dataset metadata is represented in a semantic machine interpretable form. |
 | Representation and format |  [F+MM-4.3R] | License information is in a machine readable format. |
-| Hosting environmnet capabilities | [F+MM-4.1H] | *Search capability*:<br/> Cross-study data is queryable via harmonized master data entities and their attributes. |
+| Hosting environmnet capabilities | [F+MM-4.1H] | Cross-study data is queryable via harmonized master data entities and their attributes. |
