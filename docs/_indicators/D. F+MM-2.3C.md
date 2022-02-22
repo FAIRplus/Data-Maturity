@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | F+MM-2.3C |
 | ---------- | ----------|
-| Name | Metadata includes dataset field level metadata. |
+| Name | Metadata record includes Dataset Field level metadata. |
 | Maturity Level | 2 |
 | Category | Content-related requirements |
 | Granularity Level | Dataset Fields |

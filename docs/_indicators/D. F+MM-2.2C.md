@@ -4,11 +4,11 @@ title: F+MM-2.2C
 nav_exclude: True
 ---
 
-## F+MM-2.1C
+## F+MM-2.2C
 
 | Identifier | F+MM-2.2C |
 | ---------- | ----------|
-| Name | Each individual data variable should be reported in a single field, conforming a structured dataset. |
+| Name | Each individual data variable is reported in a single Dataset Field. |
 | Maturity Level | 2 |
 | Category | Content-related requirements |
 | Granularity Level | Data Fields |

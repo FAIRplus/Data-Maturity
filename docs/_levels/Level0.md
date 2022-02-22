@@ -9,6 +9,7 @@ nav_order: 1
 
 ## Description
 
+Level 0 is a reference level that represents the state of a data object that is missing some of the fundamental requirements for FAIR data
 This level of maturity is used for single-use of the data. When the maturity level is 0, there is no potential reuse of the beyond the lifetime of the research project.
 
 ### Indicators

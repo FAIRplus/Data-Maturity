@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-2.1C |
 | ---------- | ----------|
-| Name | The Data Object is a structured Dataset with identifiable dataset fields. |
+| Name | Structured data are organised into a Dataset structure with identifiable Dataset Fields. |
 | Maturity Level | 2 |
 | Category | Content-related requirements |
 | Granularity Level | Dataset |
 | Related FAIR Principle | |
-| Description | In level 2, the data object is structured in fields and conforms a dataset. |
+| Description | Level two  |
 | Cross-reference FAIR indicators | |

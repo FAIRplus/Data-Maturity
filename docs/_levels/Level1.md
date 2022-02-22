@@ -11,6 +11,9 @@ nav_order: 2
 
 This level of maturity is defined at **data object level**. In level 1, data is identifiable as individual generic data objects that are described by generic metadata elements. Hosting environment offers limited retrieval capabilities.
 
+This is the entry level of FAIR maturity. This level prescribes the entry level requirements that all the higher levels will build up upon. This level can also be a target level for da.
+The first step to get on the maturity level is to define and identify the data object that is expected to be shared and re-used (i.e., the FAIR data object). Notice this level is referring to a Data Object rather than a Dataset. This is to imply that data at this level includes both structured and unstructured data. For unstructured data, this level is the target maturity level, while for structured data this is level represents the minimum level. It establishes basic requirements to enable 'Findability', 'Accessibility' and minimum    
+
 ### Indicators
 
 | Category | Identifier | Indicator description |

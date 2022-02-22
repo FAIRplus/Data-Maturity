@@ -11,6 +11,8 @@ nav_order: 5
 
 This level of maturity is defined at **cross-community level**. At the level, the focus is on cross-domain interoperability and is meant to be the level required for larger harmonization and integration projects.
 
+Level 4 is an aspirational level of FAIR maturity. The main focus of Level 4 is establishing semantic interoperability between datasets within and across multiple studies. 
+
 ### Indicators
 
 | Category | Identifier | Indicator description |

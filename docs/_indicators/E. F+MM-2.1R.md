@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | F+MM-2.1R |
 | ---------- | ----------|
-| Name | Project-level metadata is defined and conforms to a locally defined domain model. |
+| Name | Project-level metadata is defined and conforms to a locally defined Domain Model. |
 | Maturity Level | 2 |
 | Category | Metadata Representation requirements |
 | Granularity Level | Project |
