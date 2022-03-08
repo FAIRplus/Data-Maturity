@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-1.1R |
 | ---------- | ----------|
-| Name | Representation of metadata conforms to a locally defined model/schema. |
+| Name | The representation of a Data Object as an entity for the purpose of sharing and re-use is defined. |
 | Maturity Level | 1 |
-| Category | Metadata Representation requirements |
+| Category | Data Representation |
 | Granularity Level | Dataset |
 | Related FAIR Principle | |
-| Description | The metadata related to the data is represented in a locally defined model such as dictionary of key/value pairs. In level 1, it is not necessary to use a starndarized metadata schema, but a local schema. |
-| Cross-reference FAIR Indicators | |
+| Description | This is a pre-requisite requirement to define and identify the Data Object that is the focus of the FAIRification process. This requirement asks the data managers to consider the form and the representation of the data object that is purposed for sharing and re-use by external users. Data objects can be unstructured (e.g., image files) or structured. Once defined, this object is the object to be assigned an identifier (F+MM-1.1C). What this requirement is trying to advice against are decisions to FAIRify data stored in databases according to a defined schema without defining the 'data exchange unit' that is meant for sharing and re-use.
+| Cross-reference FAIR Indicators | NA |

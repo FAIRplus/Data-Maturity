@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-1.2H |
 | ---------- | ----------|
-| Name | Data object and metadata are retrievable by a standardized communication protocol. |
+| Name | The Data Object and its Metadata Record are indexed and retrievable via unique and persistent identifiers |
 | Maturity Level | 1 |
-| Category | Hosting Environment related requirements |
-| Granularity Level | Dataset |
+| Category | Hosting Environment |
+| Capability | Retrieval Capability |
 | Related FAIR Principle | A1. (Meta)data are retrievable by their identifier using a standardised communications protocol |
-| Description | Data object and its metadata records are indexed and retrievable via its locally unique identifier by a standardized communication protocol. Given a local identifier of the data object, it should be retrievable using a standard communication protocol such as HTTP or FTP. |
-| Cross-ref FAIR indicators | RDA-A1-04D, RDA-A1-03M, FsF-A1-03D, FsF-A1-02M |
+| Description | This indicator focuses on the resolvability and persistence of the Identifier, which needs to be guaranteed by the hosting environment. |
+| Cross-ref FAIR indicators | RDA-A1-03M, RDA-A1-03D, FsF-F1-02D |

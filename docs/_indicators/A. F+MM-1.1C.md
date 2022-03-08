@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-1.1C |
 | --------- | ----------|
-| Name | Data object is defined and it is assigned a locally unique identifier. |
+| Name | Data Object as an entity for sharing and reuse is assigned a unique identifier |
 | Maturity Level | 1 |
-| Category | Content-related requirements |
+| Category | Content and Context |
 | Granularity Level | Dataset |
-| Related FAIR Principle | |
-| Description | The data object is assigned to a locally unique identifier such that it can be referenced unambiguously and therefore there are no two identical identifiers that identify the same data object at a project level. Locally unique means an identifier should be associated with only one resource in the local project. In level 1, it does not need to be globally unique. |
-| Cross-reference FAIR indicators | |
+| Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
+| Description | The data object is assigned to a unique identifier such that it can be referenced unambiguously and therefore there are no two identical identifiers that identify the same data object at a project level.|
+| Cross-reference FAIR indicators | RDA-F1-02D, FsF-F1-01D |

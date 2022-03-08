@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-1.2C |
 | ---------- | ----------|
-| Name | Metadata record includes generel descriptive properties of the Data Object. |
+| Name | Metadata Record includes Descriptive \[Dataset / Data Object\] - level metadata  |
 | Maturity Level | 1 |
-| Category | Content-related requirements |
+| Category | Content and Context |
 | Granularity Level | Dataset |
 | Related FAIR Principle | R1. Meta(data) are richly described with a plurality of accurate and relevant attributes. |
-| Description | Metadata includes descriptive information about the data object, which includes the minimum descriptive information requrired to enable data finding (e.g., name, description, keywords). |
+| Description | Metadata includes descriptive information about the data object as a whole, which includes the minimum descriptive information required to enable Search-ability and Findability of Data (e.g., name, description, keywords). |
 | Cross-reference FAIR indicators | F2F-F2-01M |
