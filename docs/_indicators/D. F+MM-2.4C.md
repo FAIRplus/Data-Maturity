@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-2.4C |
 | ---------- | ----------|
-| Name | Dataset Field Values are standardized against a locally defined dictionary of terms within and across datasets. |
+| Name | Metadata Record includes Dataset-Field-level metadata |
 | Maturity Level | 2 |
-| Category | Content-related requirements |
-| Granularity Level | Dataset Field Values |
-| Related FAIR Principle | |
-| Description | The values of the data are standardized using a local dictionary. In level 2, there is no need to use ontologies or a community standard vocabullary, but to standarize them locally. |
-| Cross-reference FAIR indicators | |
+| Category | Content and Context |
+| Granularity Level | Dataset Field |
+| Related FAIR Principle | F2. Data are described with rich metadata, R1. Meta(data) are richly described with a plurality of accurate and relevant attributes |
+| Description | This is a **metadata-related requirement** focusing on the Dataset's structure. This is a requirement to include structural metadata into the Dataset's Metadata Record irrespective of how this information is represented (F+MM-2.1R). Dataset-Field metadata include 'field name', 'description', 'data type' |
+| Cross-reference FAIR indicators | RDA-F2-01M, FsF-R1-01MD |

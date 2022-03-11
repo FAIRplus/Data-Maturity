@@ -8,10 +8,11 @@ nav_exclude: True
 
 | Identifier | F+MM-1.1C |
 | --------- | ----------|
-| Name | Data Object as an entity for sharing and reuse is assigned a unique identifier |
+| Name | The defined Data Object purposed for sharing and reuse is assigned a unique identifier |
 | Maturity Level | 1 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
 | Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
-| Description | The data object is assigned to a unique identifier such that it can be referenced unambiguously and therefore there are no two identical identifiers that identify the same data object at a project level.|
+| Pre-requisite Indicator(s) | F+MM-1.1R |
+| Description | This is a **data-related** requirement. The Data Object is assigned a unique identifier such that it can be referenced unambiguously.|
 | Cross-reference FAIR indicators | RDA-F1-02D, FsF-F1-01D |

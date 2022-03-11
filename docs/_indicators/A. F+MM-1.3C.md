@@ -13,5 +13,5 @@ nav_exclude: True
 | Category | Content and Context |
 | Granularity Level | Project |
 | Related FAIR Principle | R1. Meta(data) are richly described with a plurality of accurate and relevant attributes |
-| Description | Metadata includes summary information about the study or project the data related to. This is basic contextual-metadata that will allow minimum levels of human interpretation of the data being shared. |
+| Description | This is a **metadata-related** requirement. Metadata should include summary information about the study or project that the Data Object is related to. This is basic contextual-metadata that will allow minimum levels of human interpretation of the data being shared. |
 | Cross-reference FAIR indicators | |

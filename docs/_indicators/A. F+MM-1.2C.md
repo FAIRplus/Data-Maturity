@@ -13,5 +13,5 @@ nav_exclude: True
 | Category | Content and Context |
 | Granularity Level | Dataset |
 | Related FAIR Principle | R1. Meta(data) are richly described with a plurality of accurate and relevant attributes. |
-| Description | Metadata includes descriptive information about the data object as a whole, which includes the minimum descriptive information required to enable Search-ability and Findability of Data (e.g., name, description, keywords). |
+| Description | This is a **metadata-related** requirement. Metadata should include descriptive information about the Data Object as a whole to enable Search-ability and Findability of Data (e.g., name, description, keywords). |
 | Cross-reference FAIR indicators | F2F-F2-01M |

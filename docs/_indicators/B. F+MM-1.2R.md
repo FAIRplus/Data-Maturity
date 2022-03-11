@@ -13,5 +13,5 @@ nav_exclude: True
 | Category | Metadata Representation |
 | Granularity Level | Dataset |
 | Related FAIR Principle | |
-| Description |  Metadata should be readable and interpretable by machines without any requirements such as specific translators or mappings such as CSV, JSON, XML, or similar. |
+| Description |  This is a **metadata-related** requirement. Metadata should be readable and interpretable by machines such as CSV, JSON, XML, or similar. |
 | Cross-reference FAIR indicators | RDA-I1-02M, FsF-I1-01M |

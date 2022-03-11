@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-2.2H |
 | ---------- | ----------|
-| Name | Metadata is registered or indexed in a searchable resource. |
+| Name | Metadata hosting environment provides programmatic access and retrieval (API) for the Dataset's Metadata Record. |
 | Maturity Level | 2 |
-| Category | Hosting Environment related requirements |
-| Granularity Level | Dataset Field Values |
-| Related FAIR Principle | F4. (Meta)data are registered or indexed in a searchable resource |
-| Description | Metadata is registred or indexed in a searchable resources and therefore data can be retrieved via its metadata descriptive elements. |
-| Cross-ref FAIR indicators | RDA-F4-01M |
+| Category | Hosting Environment |
+| Capability | Metadata Retrieval |
+| Related FAIR Principle | A1. (Meta)data are retrievable by their identifier using a standardised communications protocol |
+| Description | This is a **metadata-retrieval-related** requirement. The metadata hosting environment (which could be the same or different from the data hosting environment) should offer the capability to retrieve the Dataset's Metadata Record using API technologies like REST, RPC or GRAPHQL. |
+| Cross-ref FAIR indicators | RDA-A1.1-01M, FsF-A1-02M |

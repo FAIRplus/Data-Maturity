@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-2.3H |
 | ---------- | ----------|
-| Name | The hosting environment offers metadata archiving capability. |
+| Name | Hosting environment offers the capability to browse related Datasets |
 | Maturity Level | 2 |
-| Category | Hosting Environment related requirements |
-| Granularity Level | |
-| Related FAIR Principle | A2. Metadata are accessible, even when the data are no longer available |
-| Description | The hosting environment allows  to archive the metadata the metadata containing the information about the data object. That way, it is available even after the object has been deleted or removed from it and it is no longer available. |
-| Cross-ref FAIR indicators | RDA-A2-01M, FsF-A2-01M |
+| Category | Hosting Environment |
+| Capability | Searching Capability |
+| Related FAIR Principle | F4. (Meta)data are registered or indexed in a searchable resource |
+| Description | This capability provides enhanced contextual interpretation of multiple related datasets when they are commonly linked to a study or a project. This capability is enabled by the hosting environment's capitalising on contextual metadata and dataset structural metadata made available at this level of maturity and established by F+MM-2.2C,F+MM-2.4C and F+MM-2.6C.|
+| Cross-ref FAIR indicators | |
