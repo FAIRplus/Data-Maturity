@@ -9,16 +9,17 @@ nav_order: 1
 
 ## Description
 
-Level 0 is a reference level that represents the state of a data object that is missing some of the fundamental requirements for FAIR data
-This level of maturity is used for single-use of the data. When the maturity level is 0, there is no potential reuse of the beyond the lifetime of the research project.
+Level 0 is a reference level representing a state of data that is missing one or more fundamental FAIR requirements. Data at this level has no potential for reuse beyond the lifetime of the research project.
 
 ### Indicators
 
 | Category | Identifier | Indicator description |
 | -------- | ---------- | ---------------------- |
-| Content | [F+MM-0.1C] | The Data object or dataset as an entity is undefined or undescribed. |
-| Content | [F+MM-0.2C] | No metadata available. |
-| Representation and format |  [F+MM-0.1R] | No formal definition or representation of metadata. |
-| Representation and format |  [F+MM-0.2R] | Metadata not available in machine readable format (e.g. no metadata or in pdf). |
-| Hosting environmnet capabilities | [F+MM-0.1H] | Data or metadata is hosted in non-accessible storage (e.g., personal desktop, local file system or archive)  and only retrievable by a single or limited users. |
-| Hosting environmnet capabilities | [F+MM-0.2H] | Data or metadata hosted in an accessible resource but with no retrieval capability. |
+| Content and Context | [F+MM-0.1C] | Data Object is NOT an Identifiable Object |
+| Content and Context | [F+MM-0.2C] | No metadata available |
+| Representation and Format |  [F+MM-0.1R] | Data as an object for sharing and re-use is NOT a Defined Object |
+| Representation and Format |  [F+MM-0.2R] | No formal definition or representation of metadata  |
+| Representation and Format |  [F+MM-0.3R] | Metadata not available in machine readable format (e.g. no metadata or in pdf)  |
+| Hosting Environment | [F+MM-0.1H] | Data or metadata is hosted in non-accessible storage (e.g., personal desktop, local file system or archive). |
+| Hosting Environment | [F+MM-0.2H] | Data or metadata hosted in an accessible resource but with no retrieval capability. |
+| Hosting Environment | [F+MM-0.3H] | Metadata is not searchable |

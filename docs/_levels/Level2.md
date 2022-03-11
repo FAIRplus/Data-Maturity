@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Description
 
-Level 2 aims to enhance the usability of a project's structured data. Different projects usually have their own data model and collect different subsets of clinical, molecular, imaging or other data. The FAIRplus-DSM model distinguishes between structured data, unstructured data, and data objects in a project. Structured data include subject-based clinical data, sample-based assay data and other data associated with the data schema. Therefore, indicators at this level, refer to the FAIR Data Object as the 'Dataset' indicating more requirements related to the Dataset Fields and Dataset Field Values. 
+Level 2 aims to enhance the usability of a project, or a study's structured data, which often are represented by multiple related datasets. Different projects usually have their own data model and collect different subsets of clinical, molecular, imaging or other data. The FAIRplus-DSM model distinguishes between structured data, unstructured data, and data objects in a project. Structured data include subject-based clinical data, sample-based assay data and other data associated with the data schema. Therefore, indicators at this level, refer to the FAIR Data Object as the **Dataset** indicating more requirements related to the structural metadata of the Dataset, namely the **Dataset Fields** and the corresponding **Dataset Field Values**. 
 
 This level of maturity aims to increase the FAIRness level of structured data by focusing on Dataset-level structural metadata and Project-level contextual metadata. 
 
@@ -20,13 +20,16 @@ This level of maturity is aimed at data hosted within project-based data reposit
 
 | Category | Identifier | Indicator description |
 | -------- | ---------- | --------------------- |
-| Content | [F+MM-2.1C] | Structured data are organised into a Dataset structure with identifiable Dataset Fields. |
-| Content | [F+MM-2.2C] | Each individual data variable is reported in a single Dataset Field. |
-| Content | [F+MM-2.3C] | Metadata record includes Dataset Field level metadata. |
-| Content | [F+MM-2.4C] | Dataset field values are standardized against a locally defined dictionary of terms within and across datasets. |
-| Representation and format |  [F+MM-2.1R] | Project-level metadata is defined and conforms to a locally defined domain model. |
-| Representation and format |  [F+MM-2.2R] | Metadata describing project datasets conforms to a defined standard model. |
-| Representation and format |  [F+MM-2.3R] | Dataset(s) available in machine readable format. |
-| Hosting environment capabilities | [F+MM-2.1H] | Data and Metadata exchange format is retrieved using API technologies. |
-| Hosting environment capabilities | [F+MM-2.2H] | Metadata is registered or indexed in a searchable resource. |
-| Hosting environment capabilities | [F+MM-2.3H] | The hosting environment offers metadata archiving capability. |
+| Content | [F+MM-2.1C] | Project's structured Data are organized into identifiable Dataset(s) each assigned a unique Dataset identifier |
+| Content | [F+MM-2.2C] | Contextual and Domain-related Metadata is reported (Common Domain Entities reported in and across the Dataset(s) and relationships between them). |
+| Content | [F+MM-2.3C] | Each recorded Data Variable is individually reported in a single Dataset Field. |
+| Content | [F+MM-2.4C] | Metadata Record includes Dataset-Field level metadata (e.g. field name, field description and type). |
+| Content | [F+MM-2.5C] | Dataset Field Values are standardized against a locally defined Data Dictionary within and across related datasets. |
+| Content | [F+MM-2.6C] | Metadata Record includes reference to Value-level metadata defined in the Data Dictionary.  |
+| Representation and format |  [F+MM-2.1R] | Contextual Metadata and Domain related metadata is represented in a human interpretable form |
+| Representation and format |  [F+MM-2.2R] | Project related Datasets conform to a locally defined Dataset Model for data exchange purposes. |
+| Representation and format |  [F+MM-2.3R] | Dataset’s internal Structural Metadata is represented in accordance to a standard Metadata Schema. |
+| Representation and format |  [F+MM-2.4R] | Dataset(s) available in Machine Readable Format. |
+| Hosting Environment | [F+MM-2.1H] | Data hosting environment stores data in accordance to a locally defined Data Model / Schema  for persistence purposes. |
+| Hosting Environment | [F+MM-2.2H] | Metadata hosting environment provides programmatic access and retrieval (API) for the Dataset's Metadata Record. |
+| Hosting Environment | [F+MM-2.3H] | Hosting environment offers the capability to browse related Datasets |
