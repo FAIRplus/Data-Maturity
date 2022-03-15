@@ -17,15 +17,6 @@ The first step to be at Maturity Level 1 is to define and identify the data obje
 
 ## Indicators
 
-* [F+MM-1.1C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/A.%20F%2BMM-1.1C.md)
-* [F+MM-1.2C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/A.%20F%2BMM-1.2C.md)
-* [F+MM-1.3C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/A.%20F%2BMM-1.3C.md)
-* [F+MM-1.4C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/A.%20F%2BMM-1.4C.md)
-* [F+MM-1.1R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/B.%20F%2BMM-1.1R.md)
-* [F+MM-1.2R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/B.%20F%2BMM-1.2R.md)
-* [F+MM-1.3R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/B.%20F%2BMM-1.3R.md)
-* [F+MM-1.1H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.1H.md)
-* [F+MM-1.2H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.2H.md)
-* [F+MM-1.3H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.3H.md)
-* [F+MM-1.4H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.4H.md)
-
+{% for 1indicator in site.1indicators %}
+{{ 1indicator.content }}
+{% endfor %}
