@@ -17,16 +17,6 @@ The first step to be at Maturity Level 1 is to define and identify the data obje
 
 ### Indicators
 
-| Category | Identifier | Indicator description |
-| -------- | ---------- | ---------------------- |
-| Content and Context | [F+MM-1.1C] | A defined Data Object purposed for sharing and reuse is assigned a unique identifier |
-| Content and Context | [F+MM-1.2C] | Metadata Record includes Descriptive \[Dataset / Data Object] - level metadata  |
-| Content and Context | [F+MM-1.3C] | Metadata Record includes Descriptive project-level summary information |
-| Content and Context | [F+MM-1.4C] | Metadata Record contains access information for the Data Object |
-| Representation and Format |  [F+MM-1.1R] | A Data Object is defined for the purpose of sharing and re-use |
-| Representation and Format |  [F+MM-1.2R] | Representation of the Metadata Record conforms to a standard Metadata Schema (e.g. DCAT, DATS, DDI) |
-| Representation and Format |  [F+MM-1.3R] | Metadata Record is available in Machine-Readable Format |
-| Hosting Environment | [F+MM-1.1H] | Metadata hosting environment stores and maintains a defined Metadata Record for each identifiable Data Object |
-| Hosting Environment | [F+MM-1.2H] | The Data Object and its Metadata Record are indexed and retrievable via unique and persistent identifiers |
-| Hosting Environment | [F+MM-1.3H] | Retrieval of the Data Object and its Metadata Record utilises a standardized communication protocol that is open, free and universally implementable |
-| Hosting Environment | [F+MM-1.4H] | Hosting environment offers the capability to browse and search contents of the Metadata Record  |
+{% for indicator in site.indicators_L1 %}
+{{ indicator.content }}
+{% endfor %}
