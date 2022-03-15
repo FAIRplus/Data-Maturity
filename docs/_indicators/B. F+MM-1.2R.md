@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.2R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/B.%20F%2BMM-1.2R.md) |
 | ---------- | ----------|
-| Name | Representation of the Metadata Record conforms to a standard Generic Metadata Schema (e.g. DCAT, DATS, DDI) |
+| Name | Representation of the [Metadata Record](https://fairplus.github.io/Data-Maturity/docs/Glossary/#metadata-record) conforms to a standard Generic [Metadata Schema](https://fairplus.github.io/Data-Maturity/docs/Glossary/#metadata-schema) (e.g. DCAT, DATS, DDI) |
 | Maturity Level | 1 |
 | Category | Metadata Representation |
 | Granularity Level | Dataset |
