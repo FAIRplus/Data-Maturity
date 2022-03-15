@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-2.3H
 
-| Identifier | F+MM-2.3H |
+| Identifier | [F+MM-2.3H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/F.%20F+MM-2.3H.md) |
 | ---------- | ----------|
 | Name | Hosting environment offers the capability to browse related Datasets |
 | Maturity Level | 2 |
