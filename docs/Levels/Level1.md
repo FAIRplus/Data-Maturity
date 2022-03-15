@@ -16,7 +16,9 @@ This level prescribes the entry level requirements that all the higher levels wi
 The first step to be at Maturity Level 1 is to define and identify the data object that is expected to be shared and re-used (i.e., the FAIR data object). Notice this level is referring to a Data Object rather than a Dataset. This is to imply that data at this level includes both structured and unstructured data. 
 
 ## Indicators
-
+	
+{$ assign start = 0 %}
+{% assign end = 4 %}
 {% for indicator in site.indicators %}
-  {{ indicator[0] }}: {{ indicator[1] }}
+{{ indicator.content }}
 {% endfor %}
