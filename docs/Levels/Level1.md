@@ -17,6 +17,6 @@ The first step to be at Maturity Level 1 is to define and identify the data obje
 
 ### Indicators
 
-{% for indicator in site.indicators_L1 %}
+{% for indicator in site.indicatorsL1 %}
 {{ indicator.content }}
 {% endfor %}
