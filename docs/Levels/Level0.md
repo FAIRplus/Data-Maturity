@@ -11,7 +11,7 @@ nav_order: 1
 
 Level 0 is a reference level representing a state of data that is missing one or more fundamental FAIR requirements. Data at this level has no potential for reuse beyond the lifetime of the research project.
 
-### Indicators
+## Indicators
 
 | Category | Identifier | Description |
 | -------- | ---------- | ---------------------- |
