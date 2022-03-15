@@ -8,10 +8,10 @@ nav_exclude: True
 
 | Identifier | F+MM-3.3C |
 | --------- | ----------|
-| Name | Dataset Field Values are standardized against community standard controlled vocabularies and/or ontologies |
+| Name | Dataset's Metadata Record references a standard license under which the dataset can be re-used. |
 | Maturity Level | 3 |
-| Category | Content-related requirements |
-| Granularity Level | Dataset Field Values |
-| Related FAIR Principle | I2. (Meta)data use vocabularies that follow FAIR principles |
-| Description | This indicator focuses on the set of data values for a given dataset field. To promote interoperability and enable the hosting environment to carry out cross-study queries, dataset textual field values should be standardised against community-standard controlled terminology or ontologies.       |
-| Cross-reference FAIR indicators | RDA-I2-01D |
+| Category | Content and Context |
+| Granularity Level | Dataset |
+| Related FAIR Principle | R1.1. (Meta)data are released with a clear and accessible data usage license |
+| Description | This is a **metadata-related requirement** focusing on the data usage license. This indicator requires the reference to the conditions of reuse to be a standard licence, rather than a locally defined licence. |
+| Cross-reference FAIR indicators | RDA-R1.1-01M, RDA-R1.1-02M, FsF-R1.1-01M  |

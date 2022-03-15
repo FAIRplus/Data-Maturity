@@ -6,12 +6,13 @@ nav_exclude: True
 
 ## F+MM-3.3R
 
-| Identifier | F+MM-3.1R |
+| Identifier | F+MM-3.3R |
 | --------- | ----------|
-| Name | Dataset(s) available in machine readable community standard format relevant to the adopted domain and data model |
+| Name | Dataset's Standard Model (schema) is formally defined and documented and accessible in a human readable format |
 | Maturity Level | 3 |
-| Category | Data Format requirements |
+| Category | Metadata Representation |
 | Granularity Level | Dataset-level |
-| Related FAIR Principle | I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. R1.3. (Meta)data meet domain-relevant community standards |
-| Description |  Data should be made available in a file format that is backed by the research community to enable data sharing and reuse.     |
-| Cross-reference FAIR indicators | RDA-I1-01D, FsF-R1.3-02D  |
+| Related FAIR Principle | R1.3. (Meta)data meet domain-relevant community standards |
+| Related F+MM Indicator| F+MM-3.2R|
+| Description | This is a **metadata-related requirement** focusing on the representation of the adopted Dataset's Data Model in F+MM-3.2R. Information about the standard need to be made available via the hosting environment or hosted in a standards registry such as FAIRsharing.com.   |
+| Cross-reference FAIR Indicators | RDA-R1.3-01D |
