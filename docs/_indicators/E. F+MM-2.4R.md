@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-2.4R
 
-| Identifier | F+MM-2.4R |
+| Identifier | [F+MM-2.4R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/E.%20F+MM-2.4R.md) |
 | ---------- | ----------|
 | Name | Dataset(s) available in Machine Readable Format |
 | Maturity Level | 2 |
