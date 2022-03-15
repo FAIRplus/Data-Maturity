@@ -33,9 +33,3 @@ The FAIRplus-DSM model presents five levels of FAIR. Each level is characterised
 The model is comprised of three categories of requirements. These requirements are prescribed by a set of indicators defined for each level. A Dataset is said to be at a given FAIR maturity level if it fulfills the requirements needed to pass that level. The model is broken down into 5 maturity levels from ‘Single Use Data’, with no potential for re-use, up to ‘Managed Data Assets’, which are optimally managed at an Enterprise level.   
 
 ![Grid_view](assets/images/overview/grid_view.png)
-
-<html lang="en">
-  
-    <script src="js/shortcodes.js"></script> <!-- Shortcodes -->
-  
-</html>
