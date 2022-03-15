@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-1.2H
 
-| Identifier | F+MM-1.2H |
+| Identifier | [F+MM-1.2H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.2H.md) |
 | ---------- | ----------|
 | Name | The Data Object and its Metadata Record are indexed and retrievable via unique and persistent identifiers |
 | Maturity Level | 1 |
