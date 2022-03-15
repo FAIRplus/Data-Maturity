@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-2.3C
 
-| Identifier | F+MM-2.3C |
+| Identifier | [F+MM-2.3C](https://github.com/FAIRplus/Data-Maturity/edit/indicator-definitions/docs/_indicators/D.%20F+MM-2.3C.md) |
 | ---------- | ----------|
 | Name | Each recorded Data Variable is individually reported in a single Dataset Field  |
 | Maturity Level | 2 |
