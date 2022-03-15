@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.4C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/A.%20F%2BMM-1.4C.md) |
 | ---------- | ----------|
-| Name | Metadata Record contains access information for the Data Object  |
+| Name | [Metadata Record](https://fairplus.github.io/Data-Maturity/docs/Glossary/#metadata-record) contains access information for the [Data Object](https://fairplus.github.io/Data-Maturity/docs/Glossary/#data-object)  |
 | Maturity Level | 1 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
