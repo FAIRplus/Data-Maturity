@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.1C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/A.%20F%2BMM-1.1C.md) |
 | --------- | ----------|
-| Name | The defined Data Object purposed for sharing and reuse is assigned a unique identifier |
+| Name | The defined <span class="tooltip">Data Object<span class="tooltiptext">Definition.</span></span> purposed for sharing and reuse is assigned a unique identifier |
 | Maturity Level | 1 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
