@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-2.5C
 
-| Identifier | [F+MM-2.5C](https://github.com/FAIRplus/Data-Maturity/edit/indicator-definitions/docs/_indicators/D.%20F+MM-2.4C.md) |
+| Identifier | [F+MM-2.5C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/D.%20F+MM-2.5C.md) |
 | ---------- | ----------|
 | Name | Dataset Field Values are standardized against a locally defined Data Dictionary within and across related datasets |
 | Maturity Level | 2 |
