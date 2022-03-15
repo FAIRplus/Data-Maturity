@@ -14,18 +14,6 @@ The FAIRplus dataset maturity indicators were created based on previous work aro
 
 In the definitions of the FAIRplus-DSM indicators, you will find a link to the corresponding RDA or FAIRsFAIR indicator when they are related.
 
-{% for indicator1 in site.indicators_L1 %}
-{{ indicator1.content }}
-{% endfor %}
-
-{% for indicator2 in site.indicators_L2 %}
-{{ indicator2.content }}
-{% endfor %}
-
-{% for indicator3 in site.indicators_L3 %}
-{{ indicator3.content }}
-{% endfor %}
-
-{% for indicator4 in site.indicators_L4 %}
-{{ indicator4.content }}
+{% for indicator in site.indicators_L1 %}
+{{ indicator.content }}
 {% endfor %}
