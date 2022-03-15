@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-2.6C
 
-| Identifier | F+MM-2.6C |
+| Identifier | [F+MM-2.6C](https://github.com/FAIRplus/Data-Maturity/edit/indicator-definitions/docs/_indicators/D.%20F+MM-2.4C.md) |
 | ---------- | ----------|
 | Name | Metadata Record includes reference to the locally defined Data Dictionary  |
 | Maturity Level | 2 |
