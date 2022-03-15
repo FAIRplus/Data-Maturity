@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-1.3C
 
-| Identifier | F+MM-1.3C |
+| Identifier | [F+MM-1.3C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/A.%20F%2BMM-1.3C.md) |
 | ---------- | ----------|
 | Name | Metadata Record includes Descriptive project-level summary information  |
 | Maturity Level | 1 |
