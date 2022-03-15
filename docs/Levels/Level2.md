@@ -16,7 +16,7 @@ This level of maturity aims to increase the FAIRness level of structured data by
 This level of maturity is aimed at data hosted within project-based data repositories, general purpose data repositories or data catalogues.
    
 
-### Indicators
+## Indicators
 
 | Category | Identifier | Description |
 | -------- | ---------- | ------------|
