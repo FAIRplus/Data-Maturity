@@ -8,7 +8,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.1R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/B.%20F%2BMM-1.1R.md) |
 | ---------- | ----------|
-| Name | A Data Object is defined as the FAIR-to-be entity for the purpose of sharing and re-use  |
+| Name | A [Data Object](https://fairplus.github.io/Data-Maturity/docs/Glossary/#data-object) is defined as the FAIR-to-be entity for the purpose of sharing and re-use  |
 | Maturity Level | 1 |
 | Category | Data Representation |
 | Granularity Level | Dataset |
