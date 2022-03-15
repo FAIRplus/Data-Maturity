@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-2.3R
 
-| Identifier | F+MM-2.3R |
+| Identifier | [F+MM-2.3R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/E.%20F+MM-2.3R.md) |
 | ---------- | ----------|
 | Name | Dataset’s internal Structural Metadata is represented in accordance to a standard Metadata Schema |
 | Maturity Level | 2 |
