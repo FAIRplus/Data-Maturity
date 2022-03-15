@@ -3,6 +3,7 @@ layout: default
 title: Level 1
 identifier: level1
 nav_order: 2
+nav_exclude: false
 ---
 
 # <span style="color:purple;font-weight:bold">Level 1</span>
