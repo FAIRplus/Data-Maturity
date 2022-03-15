@@ -6,7 +6,7 @@ nav_exclude: True
 
 ## F+MM-1.3R
 
-| Identifier | F+MM-1.3R |
+| Identifier | [F+MM-1.3R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/B.%20F%2BMM-1.3R.md) |
 | ---------- | ----------|
 | Name | Metadata Record is available in Machine-Readable Format |
 | Maturity Level | 1 |
