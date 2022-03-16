@@ -7,7 +7,7 @@ nav_exclude: True
 
 ## F+MM-3.2C
 
-| Identifier | F+MM-3.2C |
+| Identifier | [F+MM-3.2C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/G.%20F+MM-3.2C.md) |
 | --------- | ----------|
 | Name | If applicable, Dataset(s) content is reported in compliance with relevant community-defined Data Reporting Guidelines |
 | Maturity Level | 3 |
