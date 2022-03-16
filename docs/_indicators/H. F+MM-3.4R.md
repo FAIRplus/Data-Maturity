@@ -7,8 +7,8 @@ nav_exclude: True
 
 ## F+MM-3.4R
 
-| Identifier | F+MM-3.4R |
-| --------- | ----------|
+| Identifier | [F+MM-3.4R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/H.%20F%2BMM-3.4R.md) |
+| ---------- | ----------|
 | Name | Dataset(s) available in Machine Readable Format relevant to the adopted standard Data Exchange Model |
 | Maturity Level | 3 |
 | Category | Data Format |
