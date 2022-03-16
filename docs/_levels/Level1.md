@@ -34,5 +34,5 @@ The first step to be at Maturity Level 1 is to define and identify the data obje
 
 {% assign indicators = site.indicators | where:"parent_level", level.identifier %}
 {% for indicator in indicators %}
-{{indicators.content}}
+{{indicator.content}}
 {% endfor %}
