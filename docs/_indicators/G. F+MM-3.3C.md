@@ -7,7 +7,7 @@ nav_exclude: True
 
 ## F+MM-3.3C
 
-| Identifier | F+MM-3.3C |
+| Identifier | [F+MM-3.3C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/G.%20F+MM-3.3C.md) |
 | --------- | ----------|
 | Name | Dataset's Metadata Record references a standard license under which the dataset can be re-used. |
 | Maturity Level | 3 |
