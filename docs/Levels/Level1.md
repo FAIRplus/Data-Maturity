@@ -33,7 +33,7 @@ The first step to be at Maturity Level 1 is to define and identify the data obje
 | Hosting Environment | [F+MM-1.3H](https://fairplus.github.io/Data-Maturity/docs/Indicators/#fmm-13h) | Retrieval of the Data Object and its Metadata Record utilises a standardized communication protocol that is open, free and universally implementable |
 | Hosting Environment | [F+MM-1.4H](https://fairplus.github.io/Data-Maturity/docs/Indicators/#fmm-14h) | Hosting environment offers the capability to browse and search contents of the Metadata Record |
 
-{% assign indicators = site.indicators | where:"parent_level", .identifier %}
+{% assign indicators = site.indicators | where:"parent_level", "level1" %}
 {% for indicator in indicators %}
 {{indicator.content}}
 {% endfor %}
