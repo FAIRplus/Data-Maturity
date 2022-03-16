@@ -2,6 +2,7 @@
 layout: default
 title: Level 1
 identifier: level1
+parent: Maturity levels
 nav_order: 2
 nav_exclude: false
 ---
