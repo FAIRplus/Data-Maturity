@@ -13,6 +13,6 @@ nav_exclude: True
 | Maturity Level | 1 |
 | Category | Metadata Representation |
 | Granularity Level | Dataset |
-| Related FAIR Principle | |
+| Related FAIR Principle | I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation, R1.3. (Meta)data meet domain-relevant community standards |
 | Description |  This is a **metadata-related** requirement. Metadata should be readable and interpretable by machines such as CSV, JSON, XML, or similar. |
 | Cross-reference FAIR indicators | RDA-I1-02M, FsF-I1-01M |
