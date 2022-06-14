@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-2.3R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/E.%20F+MM-2.3R.md) |
 | ---------- | ----------|
-| Name | Dataset’s internal Structural Metadata is represented in accordance to a standard Metadata Schema |
+| Name | Dataset Descriptor(s) provide a formal representation of the local Dataset Model, if applicable using or extending a Standard Generic Dataset Descriptor Model |
 | Maturity Level | 2 |
 | Category | Metadata Representation |
 | Granularity Level | Dataset |

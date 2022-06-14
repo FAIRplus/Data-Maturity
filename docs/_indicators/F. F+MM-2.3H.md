@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-2.3H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/F.%20F+MM-2.3H.md) |
 | ---------- | ----------|
-| Name | Hosting environment offers the capability to browse related Datasets |
+| Name | Data hosting environment offers the capability to browse and search related Datasets |
 | Maturity Level | 2 |
 | Category | Hosting Environment |
 | Capability | Searching Capability |

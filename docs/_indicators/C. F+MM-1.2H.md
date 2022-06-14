@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.2H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.2H.md) |
 | ---------- | ----------|
-| Name | The Data Object and its Metadata Record are indexed and retrievable via unique and persistent identifiers |
+| Name | The Dataset and its Descriptor are indexed and retrievable (in the same or separate hosting environments) via unique and persistent identifiers  |
 | Maturity Level | 1 |
 | Category | Hosting Environment |
 | Capability | Retrieval Capability |

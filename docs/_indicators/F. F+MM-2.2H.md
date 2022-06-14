@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-2.2H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/F.%20F+MM-2.2H.md) |
 | ---------- | ----------|
-| Name | Metadata hosting environment provides programmatic access and retrieval (API) for the Dataset's Metadata Record. |
+| Name | Metadata hosting environment provides programmatic access and retrieval (API) for the Dataset Descriptor |
 | Maturity Level | 2 |
 | Category | Hosting Environment |
 | Capability | Metadata Retrieval |

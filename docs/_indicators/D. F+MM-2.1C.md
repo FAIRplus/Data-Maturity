@@ -9,10 +9,10 @@ nav_exclude: True
 
 | Identifier | [F+MM-2.1C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/D.%20F+MM-2.1C.md) |
 | ---------- | ----------|
-| Name | Project's structured Data are organized into identifiable structured Dataset(s) each assigned a unique Dataset identifier |
+| Name | A Domain Model describes the overall study design, the relationships between the Project Datasets, the key entities reported within the Project Datasets and the relationships between them |
 | Maturity Level | 2 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
-| Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
-| Description | This is a **data-related requirement** that builds up on Level one's F+MM-1.1C requirement. Level 2 data are expected to be structured data that are organised and structured into defined Datasets. This indicator makes this requirement explicit by identifying the subject matter as the 'Dataset' rather than a generic 'Data Object'. Also as the scope of Level 2 data is a project/study level, this level refers to multiple related Datasets that are expected to be shared together, hence a level of contextual metadata is expcted to be included in the Metadata Record (F+MM-2.2C) |
-| Cross-reference FAIR indicators | |
+| Related FAIR Principle | R1. Meta(data) are richly described with a plurality of accurate and relevant attributes |
+| Description | This is a **metadata-related requirement** focusing on context and domain description. This is an entry level requirement to describe the 'Domain' of the data, which at this level might not be fully represented by either the hosting environment or an adopted standard (level 3). The Metadata Record should include information that can help a researcher understand the data context, especially in relation to the overall project or study design that this dataset belongs to as well as the entities that are represented by the dataset content. |
+| Cross-reference FAIR indicators | RDA-R1-01M, FsF-R1-01MD  |

@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.4H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.4H.md) |
 | ---------- | ----------|
-| Name | Hosting environment offers the capability to browse and search contents of the Metadata Record |
+| Name | Metadata hosting environment offers the capability to browse and search contents of the Dataset Descriptor  |
 | Maturity Level | 1 |
 | Category | Hosting Environment |
 | Capability | Searching Capability |

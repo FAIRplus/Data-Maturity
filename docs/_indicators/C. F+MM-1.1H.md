@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.1H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.1H.md) |
 | ---------- | ----------|
-| Name | Hosting environment stores and maintains a Metadata Record for each identifiable Data Object |
+| Name | Metadata hosting environment stores and maintains an identifiable Dataset Descriptor for each identifiable Dataset |
 | Maturity Level | 1 |
 | Category | Hosting Environment |
 | Capability | Storage Capability |

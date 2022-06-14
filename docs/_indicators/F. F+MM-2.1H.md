@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-2.1H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/F.%20F+MM-2.1H.md) |
 | ---------- | ----------|
-| Name | Data hosting environment stores data in accordance to a locally defined Data Model / Schema  for persistence purposes |
+| Name | Data hosting environment stores data in accordance to a locally defined Domain Model for persistence purposes |
 | Maturity Level | 2 |
 | Category | Hosting Environment |
 | Capability | Storage |

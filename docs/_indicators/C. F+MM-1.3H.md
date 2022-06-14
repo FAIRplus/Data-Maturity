@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.3H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.3H.md) |
 | ---------- | ----------|
-| Name | Retrieval of the Data Object and its Metadata Record utilises a standardized communication protocol that is open, free and universally implementable |
+| Name | Retrieval of the Dataset and the Dataset Descriptor utilises a standardized communication protocol that is open, free and universally implementable |
 | Maturity Level | 1 |
 | Category | Hosting Environment |
 | Capability | Retrieval Capability |

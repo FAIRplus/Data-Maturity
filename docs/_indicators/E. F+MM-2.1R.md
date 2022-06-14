@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-2.1R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/E.%20F+MM-2.1R.md) |
 | ---------- | ----------|
-| Name | Project-Level Contextual Metadata is represented in a human interpretable form |
+| Name | Contextual Metadata necessary to understand and interpret Datasets' content is defined and conforms to a locally defined Domain Model |
 | Maturity Level | 2 |
 | Category | Metadata Representation |
 | Granularity Level | Project |
