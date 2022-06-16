@@ -7,7 +7,7 @@ nav_exclude: True
 
 ## F+MM-1.5R
 
-| Identifier | [F+MM-1.5R](https://github.com/FAIRplus/Data-Maturity/blob/v0.3/docs/_indicators/A.%20F+MM-1.5R.md) |
+| Identifier | [F+MM-1.5R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/A.%20F+MM-1.5R.md) |
 | ---------- | ----------|
 | Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) is available in [Machine-Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
 | Maturity Level | 1 |
