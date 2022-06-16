@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-1.3R
 
-| Identifier | [F+MM-1.3R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/B.%20F%2BMM-1.3R.md) |
+| Identifier | [F+MM-1.3R](https://github.com/FAIRplus/Data-Maturity/edit/indicator-definitions/docs/_indicators/B.%20F+MM-1.3R.md) |
 | ---------- | ----------|
-| Name | Metadata Record is available in Machine-Readable Format |
+| Name | [Metadata Record](https://fairplus.github.io/Data-Maturity/docs/Glossary/#metadata-record) is available in [Machine-Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
 | Maturity Level | 1 |
 | Category | Metadata Format |
 | Granularity Level | Dataset |
