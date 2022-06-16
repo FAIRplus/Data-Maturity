@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-1.1H
 
-| Identifier | [F+MM-1.1H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/C.%20F%2BMM-1.1H.md) |
+| Identifier | [F+MM-1.1H](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/C.%20F+MM-1.1H.md) |
 | ---------- | ----------|
-| Name | Metadata hosting environment stores and maintains an identifiable Dataset Descriptor for each identifiable Dataset |
+| Name | Metadata hosting environment stores and maintains an identifiable [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) for each identifiable [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) |
 | Maturity Level | 1 |
 | Category | Hosting Environment |
 | Capability | Storage Capability |
