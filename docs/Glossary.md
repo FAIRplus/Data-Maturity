@@ -39,6 +39,9 @@ Definition
 ### Data Variable
 A data variable is an information entity which can be defined in a data dictionary, which has a type and which can assume a range of values.
 
+### Dataset
+Definition
+
 ### Dataset Descriptor
 A data descriptor is a metadata record of the dataset which provides information about a dataset.
 
