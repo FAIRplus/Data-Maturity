@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-2.4C
 
-| Identifier | [F+MM-2.4C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/D.%20F+MM-2.4C.md) |
+| Identifier | [F+MM-2.4C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/E.%20F+MM-2.4C.md) |
 | ---------- | ----------|
-| Name | Where applicable, Dataset Field Values are standardized against a locally defined Data Dictionary within and across related datasets |
+| Name | Where applicable, [Dataset Field Values](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-field-values) are standardized against a locally defined [Data Dictionary](https://fairplus.github.io/Data-Maturity/docs/Glossary/#data-dictionary) within and across related datasets |
 | Maturity Level | 2 |
 | Category | Content and Context |
 | Granularity Level | Dataset Field Values |
