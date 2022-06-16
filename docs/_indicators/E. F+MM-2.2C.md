@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-2.2C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/E.%20F+MM-2.2C.md) |
 | ---------- | ----------|
-| Name | Where applicable, the Dataset Model organises data values within a dataset according to the [Tidy Data Principles](https://fairplus.github.io/Data-Maturity/docs/Glossary/#tidy-data-principles)  |
+| Name | Where applicable, the [Dataset Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-model) organises data values within a dataset according to the [Tidy Data Principles](https://fairplus.github.io/Data-Maturity/docs/Glossary/#tidy-data-principles)  |
 | Maturity Level | 2 |
 | Category | Content and Context |
 | Granularity Level | Dataset Fields |
