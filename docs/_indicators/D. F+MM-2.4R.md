@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-2.4R
 
-| Identifier | [F+MM-2.4R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/E.%20F+MM-2.4R.md) |
+| Identifier | [F+MM-2.4R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/D.%20F+MM-2.4R.md) |
 | ---------- | ----------|
-| Name | Dataset(s) available in Machine Readable Format |
+| Name | [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)(s) available in [Machine Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
 | Maturity Level | 2 |
 | Category | Data Format |
 | Granularity Level | Dataset |
