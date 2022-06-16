@@ -7,7 +7,7 @@ nav_exclude: True
 
 ## F+MM-1.0C
 
-| Identifier | [F+MM-1.0C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/A.%20F+MM-1.0C.md) |
+| Identifier | [F+MM-1.0C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/B.%20F+MM-1.0C.md) |
 | --------- | ----------|
 | Name | Each [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) purposed for FAIR sharing and reuse is assigned a unique identifier |
 | Maturity Level | 1 |
