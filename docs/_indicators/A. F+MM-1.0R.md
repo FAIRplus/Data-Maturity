@@ -7,7 +7,7 @@ nav_exclude: True
 
 ## F+MM-1.0R
 
-| Identifier | [F+MM-1.0R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/B.%20F+MM-1.0R.md) |
+| Identifier | [F+MM-1.0R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/A.%20F+MM-1.0R.md) |
 | ---------- | ----------|
 | Name | Structured and/or Unstructured Data are organised into [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)(s) created for the purpose of FAIR sharing and re-use  |
 | Maturity Level | 1 |
