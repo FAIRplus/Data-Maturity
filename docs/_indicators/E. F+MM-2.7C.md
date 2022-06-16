@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-2.7C
 
-| Identifier | [F+MM-2.7C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/D.%20F+MM-2.7C.md) |
+| Identifier | [F+MM-2.7C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/E.%20F+MM-2.7C.md) |
 | ---------- | ----------|
-| Name | Dataset Descriptor includes Value-level Metadata or if applicable includes a reference to the Data Dictionary   |
+| Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) includes [Value-level Metadata](https://fairplus.github.io/Data-Maturity/docs/Glossary/#value-level-metadata) or if applicable includes a reference to the [Data Dictionary](https://fairplus.github.io/Data-Maturity/docs/Glossary/#data-dictionary) |
 | Maturity Level | 2 |
 | Category | Content and Context |
 | Granularity Level | Dataset Field Values |
