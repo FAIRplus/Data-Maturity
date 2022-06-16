@@ -7,7 +7,7 @@ nav_exclude: True
 
 ## F+MM-1.2C
 
-| Identifier | [F+MM-1.2C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/A.%20F%2BMM-1.2C.md) |
+| Identifier | [F+MM-1.2C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/A.%20F+MM-1.2C.md) |
 | ---------- | ----------|
 | Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) includes Identifying and Descriptive Dataset-Level metadata  |
 | Maturity Level | 1 |
