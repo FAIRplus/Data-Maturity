@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-2.1C
 
-| Identifier | [F+MM-2.1C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/D.%20F+MM-2.1C.md) |
+| Identifier | [F+MM-2.1C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/E.%20F+MM-2.1C.md) |
 | ---------- | ----------|
-| Name | A Domain Model describes the overall study design, the relationships between the Project Datasets, the key entities reported within the Project Datasets and the relationships between them |
+| Name | A [Domain Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#domain-model) describes the overall study design, the relationships between the [Project Datasets](https://fairplus.github.io/Data-Maturity/docs/Glossary/#project-dataset), the key entities reported within the [Project Datasets](https://fairplus.github.io/Data-Maturity/docs/Glossary/#project-dataset) and the relationships between them |
 | Maturity Level | 2 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
