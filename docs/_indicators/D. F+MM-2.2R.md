@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-2.2R
 
-| Identifier | [F+MM-2.2R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/E.%20F+MM-2.2R.md) |
+| Identifier | [F+MM-2.2R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/D.%20F+MM-2.2R.md) |
 | ---------- | ----------|
-| Name | Project collected Data are organized into structured Dataset(s) and conform to a locally defined Dataset Model |
+| Name | Project collected Data are organized into structured Dataset(s) and conform to a locally defined [Dataset Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-model) |
 | Maturity Level | 2 |
 | Category | Data Representation |
 | Granularity Level | Dataset |
