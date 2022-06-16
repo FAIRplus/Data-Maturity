@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-2.1R
 
-| Identifier | [F+MM-2.1R](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/E.%20F+MM-2.1R.md) |
+| Identifier | [F+MM-2.1R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/D.%20F+MM-2.1R.md) |
 | ---------- | ----------|
-| Name | Contextual Metadata necessary to understand and interpret Datasets' content is defined and conforms to a locally defined Domain Model |
+| Name | [Contextual Metadata](https://fairplus.github.io/Data-Maturity/docs/Glossary/#contextual-metadata) necessary to understand and interpret Datasets' content is defined and conforms to a locally defined [Domain Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#domain-model) |
 | Maturity Level | 2 |
 | Category | Metadata Representation |
 | Granularity Level | Project |
