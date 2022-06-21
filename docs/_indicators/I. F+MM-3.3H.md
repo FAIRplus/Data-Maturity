@@ -1,15 +1,15 @@
 ---
 layout: default
-title: F+MM-3.2H
+title: F+MM-3.3H
 parent_level: level3
 nav_exclude: True
 ---
 
-## F+MM-3.2H
+## F+MM-3.3H
 
-| Identifier | [F+MM-3.2H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/I.%20F%2BMM-3.2H.md) |
+| Identifier | [F+MM-3.3H](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/I.%20F+MM-3.3H.md) |
 | --------- | ----------|
-| Name | Hosting environment offers data content and context-based searching capability. (data discovery?) |
+| Name | Hosting environment offers Data Discovery capability |
 | Maturity Level | 3 |
 | Category | Hosting Environment related requirements |
 | Capability | Searching Capability |
