@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [F+MM-3.2C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/H.%20F+MM-3.2C.md) |
 | --------- | ----------|
-| Name | If applicable, Dataset(s) content is reported in compliance with relevant community-defined Data [Reporting Guidelines](https://fairplus.github.io/Data-Maturity/docs/Glossary/#reporting-guideline) |
+| Name | If applicable, [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)(s) content is reported in compliance with relevant community-defined Data [Reporting Guidelines](https://fairplus.github.io/Data-Maturity/docs/Glossary/#reporting-guideline) |
 | Maturity Level | 3 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
