@@ -8,8 +8,8 @@ nav_exclude: True
 ## F+MM-4.2C
 
 | Identifier | F+MM-4.2C |
-| --------- | -----------|
-| Name | Dataset(s) fields are semantically typed. |
+| ---------- | -----------|
+| Name | [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)(s) content is harmonised against a designed-for-purpose [Semantic Data Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#semantic-data-model) |
 | Maturity Level | 4 |
 | Category | Content-related requirements |
 | Granularity Level | Dataset Fields |
