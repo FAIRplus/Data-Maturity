@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | F+MM-4.1R |
 | --------- | -----------|
-| Name | Dataset metadata is represented in a semantic machine interpretable form. |
+| Name | [Contextual Metadata](https://fairplus.github.io/Data-Maturity/docs/Glossary/#contextual-metadata) and study related Metadata are formally defined and represented by a set of [Study Design Elements](https://fairplus.github.io/Data-Maturity/docs/Glossary/#study-design-element) |
 | Maturity Level | 4 |
 | Category | Metadata representation |
 | Granularity Level | Dataset |
