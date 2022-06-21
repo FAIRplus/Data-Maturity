@@ -7,9 +7,9 @@ nav_exclude: True
 
 ## F+MM-3.5C
 
-| Identifier | [F+MM-3.5C](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/G.%20F+MM-3.5C.md) |
+| Identifier | [F+MM-3.5C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/H.%20F+MM-3.5C.md) |
 | --------- | ----------|
-| Name | Resolvable Identifiers for Term Metadata are reported in the Dataset or its associated Metadata Record |
+| Name | [Value Level Metadata](https://fairplus.github.io/Data-Maturity/docs/Glossary/#value-level-metadata) includes [Resolvable Identifiers](https://fairplus.github.io/Data-Maturity/docs/Glossary/#resolvable-identifier) for Controlled and/or Standard Terms reported in the [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)  |
 | Maturity Level | 3 |
 | Category | Content and Context |
 | Granularity Level | Dataset Field Values |
