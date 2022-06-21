@@ -1,15 +1,15 @@
 ---
 layout: default
-title: F+MM-3.3H
+title: F+MM-3.4H
 parent_level: level3
 nav_exclude: True
 ---
 
-## F+MM-3.3H
+## F+MM-3.4H
 
-| Identifier | [F+MM-3.3H](https://github.com/FAIRplus/Data-Maturity/blob/indicator-definitions/docs/_indicators/I.%20F%2BMM-3.3H.md) |
+| Identifier | [F+MM-3.4H](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/I.%20F+MM-3.4H.md) |
 | --------- | ----------|
-| Name | Hosting environment offers dataset-level authentication and authorisation capabilities |
+| Name | If applicable, Dataset hosting environment offers dataset-level authentication and authorisation capabilities |
 | Maturity Level | 3 |
 | Category | Hosting Environment related requirements |
 | Capability | Data Retrieval |
