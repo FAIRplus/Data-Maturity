@@ -8,8 +8,8 @@ nav_exclude: True
 ## F+MM-4.3C
 
 | Identifier | F+MM-4.3C |
-| --------- | ----------|
-| Name | Master Data entity types reported in the datasets are identifiable via standard identifiers. |
+| ---------- | ----------|
+| Name | Key Dataset Fields are mapped to Common Data Elements as defined by the Semantic Data Model  |
 | Maturity Level | 4 |
 | Category | Content-related requirements |
 | Granularity Level | Dataset Field Values |
