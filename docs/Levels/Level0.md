@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Description
 
-Level 0 is a reference level representing a state of data that is missing one or more fundamental FAIR requirements. Data at this level has no potential for reuse beyond the lifetime of the research project.
+Level 0 is a reference level representing a **state of data** that is missing one or more fundamental FAIR requirements. Data at this level has diminished potential for reuse as it does not meet the minimum set of requirements to be findable or accessible beyond the lifetime of its original research project.
 
 ## Indicators
 

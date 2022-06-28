@@ -9,10 +9,10 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.4R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/A.%20F+MM-1.4R.md) |
 | ---------- | ----------|
-| Name | A representation of the [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) conforming to a relevant General-purpose [Metadata Schema](https://fairplus.github.io/Data-Maturity/docs/Glossary/#metadata-schema) is available |
+| Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) is available in [Machine-Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
 | Maturity Level | 1 |
-| Category | Metadata Representation |
+| Category | Metadata Format |
 | Granularity Level | Dataset |
-| Related FAIR Principle | I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation, R1.3. (Meta)data meet domain-relevant community standards |
-| Description |  This is a **metadata-related** requirement. Metadata should be readable and interpretable by machines such as CSV, JSON, XML, or similar. |
-| Cross-reference FAIR indicators | RDA-I1-02M, FsF-I1-01M |
+| Related FAIR Principle | F4. (Meta)data are registered or indexed in a searchable resource |
+| Description | This is a **format-related** requirement that focuses on machine-readability aspect of the metadata. This is a pre-requisite requirement to having the metadata indexed and searchable in a hosting resource (F+MM1.4H). |
+| Cross-reference FAIR indicators | RDA-F4-01M, RDA-I1-02M, FsF-I1-01M |

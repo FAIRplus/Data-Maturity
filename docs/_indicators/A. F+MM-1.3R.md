@@ -9,10 +9,11 @@ nav_exclude: True
 
 | Identifier | [F+MM-1.3R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/A.%20F+MM-1.3R.md) |
 | ---------- | ----------|
-| Name | An Identifiable [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) is associated with each Identifiable Dataset [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) |
+| Name | A representation of the [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) conforming to a relevant General-purpose [Metadata Schema](https://fairplus.github.io/Data-Maturity/docs/Glossary/#metadata-schema) is available |
 | Maturity Level | 1 |
-| Category | Data Representation |
+| Category | Metadata Representation |
 | Granularity Level | Dataset |
-| Related FAIR Principle | |
 | Description | |
-| Cross-reference FAIR Indicators | |
+| Related F+MM Indicator| |
+| Related FAIR Principle | |
+| Cross-reference FAIR indicators | |

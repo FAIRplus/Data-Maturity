@@ -40,7 +40,7 @@ Definition
 A data variable is an information entity which can be defined in a data dictionary, which has a type and which can assume a range of values.
 
 ### Dataset
-Definition
+A dataset in the context of the FAIR-DSM model is a data structure that is purposed for FAIR sharing. A dataset in FAIR-DSM-L-1 is a flexible container for any collection of data that is expected to be hosted and served for FAIR data sharing, i.e., Datasets can contain unstructured (e.g., image files) or structured (e.g. clinical data or lab data) data.  Starting with FAIR-DSM-L-2 to FAIR-DSM-L-5, a dataset is expected to refer to a container for structured data, composed of a set of fields and each field is composed of a set of values (value set). In the majority of cases a dataset will be a tabular data structure (delimited text file) or a hierarchical data structure (json or xml)
 
 ### Dataset Descriptor
 A data descriptor is a metadata record of the dataset which provides information about a dataset.
