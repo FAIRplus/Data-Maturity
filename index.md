@@ -12,7 +12,7 @@ permalink: /
 
 The FAIRplus-DSM model is intended as a comprehensive reference model for state-of-FAIRness improvement in research datasets. Based on the FAIR guiding principles, the DSM model defines and classifies requirements that constitute an incremental path towards improving FAIRness level for a given research dataset.
 
-## FAIRplus-DSM Assumptions \& Conceptual Model
+## FAIRplus-DSM Assumptions & Conceptual Model
 
 ![concept](assets/images/overview/conceptual-model.png) 
 
