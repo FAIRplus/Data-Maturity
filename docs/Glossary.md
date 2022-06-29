@@ -13,7 +13,7 @@ A common data element are standardized key terms or concepts, established so tha
 A community-defined data reporting guideline is a well-defined data format or document that provides information on data achiving and sharing across the community. Most of the community defined guidelines can be found on [FAIRSharing.org](https://fairsharing.org/search?fairsharingRegistry=Standard).
 
 ### Contextual Metadata
-Definition
+This is a type of metadata that describes the context in which the dataset was produced within.  Contextual metadata is necessary to preserve the integrity of the data and provides the means to understand and enable the interpretation of the data to anyone wishing to use this data. In the biomedical domain, this information includes concepts that make up the study design such as the assessments or assays that generated the data, as well as the entities that data is collected for such as subjects, samples, cell lines, or molecular entities and the relationships between them. 
 
 ### Controlled terminologies
 A controlled terminology is an organized list of terms for the purpose of curation and normalization of data record annotation. Hence, they are list of indexed terms that can be retrieved by simple browsing and querying.
@@ -31,7 +31,7 @@ Definition
 A data exchange model is a type of data model specialized devised to enable the transfer of information between systems.
 
 ### Data Model/Schema
-A data model is a formal representation of a domain which identified key entities and relations between them.
+A data model is a formal representation of a domain with identified key entities and relations between them.
 
 ### Data Object
 Definition

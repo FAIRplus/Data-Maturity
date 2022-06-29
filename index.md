@@ -12,11 +12,13 @@ permalink: /
 
 The FAIRplus-DSM model is intended as a comprehensive reference model for state-of-FAIRness improvement in research datasets. Based on the FAIR guiding principles, the DSM model defines and classifies requirements that constitute an incremental path towards improving FAIRness level for a given research dataset.
 
-## FAIRplus-DSM Conceptual Model
+## FAIRplus-DSM Assumptions \& Conceptual Model
 
 ![concept](assets/images/overview/conceptual-model.png) 
 
-According to the FAIRplus-DSM, a Dataset is the unit of Data that is defined for the purpose of FAIR sharing and reuse. Three different levels of data granularity are referred to by the FAIR-DSM model indicators: Dataset level, Dataset Field Level, and Value-set Level. For each Dataset, a Dataset Descriptor (metadata object) is associated with it. The model includes indicators that guide the creation of Dataset Descriptors for content and representation at different levels of maturity. Similarly, the model includes indicators that guide the modeling and inclusion of FAIR-related requirements in the dataset \(referred to as Data Model\), which is part of what the Dataset Descriptor includes to describe the dataset.
+According to the FAIRplus-DSM, a ***[Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) is the unit of Data that is defined for the purpose of FAIR sharing and reuse***. This means that users of the model should think about the representation and structuring of their data into *Datasets* that can be exchanged between a hosting environment and an end user. The model also refers to ***the unit of metadata that describes each Dataset*** as the [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor).     
+
+The model includes indicators that guide the creation of Dataset Descriptors for content and representation at different levels of maturity. Similarly, the model includes indicators that guide the modeling and inclusion of FAIR-related requirements in the dataset \(referred to as Dataset Model\), which is part of what the Dataset Descriptor includes to describe the dataset. Three different levels of data granularity are referred to by the FAIR-DSM model indicators when referring to the Dataset Model: Dataset level, Dataset Field Level, and Value-set Level. 
 
 A Dataset is also contextualised by being associated with a Domain Model, which provides the necessary information to understand and interpret the dataset\(s\) content.  
 
