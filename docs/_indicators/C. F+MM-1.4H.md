@@ -14,5 +14,5 @@ nav_exclude: True
 | Category | Hosting Environment |
 | Capability | Searching Capability |
 | Related FAIR Principle | F4. (Meta)data are registered or indexed in a searchable resource |
-| Description | This capability is enabled by having the metadata record stored and indexed by the hosting environment. As a gained benefit, the hosting environment should be able to offer simple keyword search against their locally defined metadata schema to enable basic human led discoverability of data.|
+| Description | This capability is enabled by the Metadata Hosting Environment storing and indexing the metadata that is included in the Dataset Descriptor (F+MM-1.2H). As a gained benefit, the hosting environment should be able to offer simple keyword search against their locally defined metadata schema to enable basic human led discoverability of the associated datasets.|
 | Cross-ref FAIR indicators | |

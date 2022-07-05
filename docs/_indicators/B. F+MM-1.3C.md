@@ -14,5 +14,5 @@ nav_exclude: True
 | Category | Content and Context |
 | Granularity Level | Dataset |
 | Related FAIR Principle | A1. (Meta)data are retrievable by their identifier using a standardised communications protocol |
-| Description |  |
+| Description | This is a **metadata-related** requirement. Metadata should include Both access level and conditions  necessary  to potentially gain access to the data. |
 | Cross-reference FAIR indicators | RDA-A1-01M, FsF-A1-01M |

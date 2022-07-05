@@ -15,6 +15,6 @@ nav_exclude: True
 | Granularity Level | Dataset |
 | Description | |
 | Related F+MM Indicator| |
-| Related FAIR Principle | |
-| Cross-reference FAIR indicators | |
+| Related FAIR Principle | F2. Data are described with rich metadata |
+| Cross-reference FAIR indicators | RDA-F2-01M |
 

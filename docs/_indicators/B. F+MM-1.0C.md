@@ -15,5 +15,5 @@ nav_exclude: True
 | Granularity Level | Dataset |
 | Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
 | Pre-requisite Indicator(s) | F+MM-1.1R |
-| Description | This is a **data-related** requirement. The Data Object is assigned a unique identifier such that it can be referenced unambiguously.|
+| Description | This is a **data-related** requirement. The Dataset is assigned a unique identifier such that it can be referenced unambiguously.|
 | Cross-reference FAIR indicators | RDA-F1-02D, FsF-F1-01D |

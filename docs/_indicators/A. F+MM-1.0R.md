@@ -11,10 +11,10 @@ nav_exclude: True
 | ---------- | ----------|
 | Name | Dataset Metadata is formally represented in the form of an Identifiable [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor)  |
 | Maturity Level | 1 |
-| Category | Data Representation |
+| Category | Metadata Representation |
 | Granularity Level | Dataset |
 | Description |  |
 | Related F+MM Indicator| |
-| Related FAIR Principle | |
-| Cross-reference FAIR indicators | |
+| Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
+| Cross-reference FAIR indicators | RDA-F1-01M |
 

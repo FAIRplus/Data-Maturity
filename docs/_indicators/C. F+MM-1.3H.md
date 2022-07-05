@@ -14,5 +14,5 @@ nav_exclude: True
 | Category | Hosting Environment |
 | Capability | Retrieval Capability |
 | Related FAIR Principle | A1.1 The protocol is open, free, and universally implementable. |
-| Description | Standardised protocol free of charge which facilitates access of the data and metadata such as HTTP, FTP (e.g. simple links for download). |
+| Description | Standardised protocol implementation facilitates access of the data and metadata such as HTTP, FTP (e.g. simple links for download). |
 | Cross-ref FAIR indicators | RDA-A1.1-01D |
