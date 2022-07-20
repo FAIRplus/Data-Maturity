@@ -22,3 +22,20 @@ This level of maturity is aimed at data hosted within project-based data reposit
 {% for indicator in indicators %}
 {{indicator.content}}
 {% endfor %}
+
+
+## Example
+
+![Level2-Overview](../../assets/images/examples/level2_overview.png)
+
+In order to comply with level 2 maturity requirements, a dataset needs to conform to a locally defined domain model such as a project data dictionary or standard generic domain model such as W3C's DCAT or Bioschemas. This allows data values to be mapped uniformely using standardised terms for both variables and valuesl, where possible.
+
+
+![Level2-Model](../../assets/images/examples/level2_model.png)
+
+Where appropriate, datasets should also conform to "Tidy Data Principles", ie each column and field should represent a single variable. In the example shown below, the initial data encodes both the measured variable (eg sysbp - systolic blood pressure) and the visit during which the measurement was taken (eg sc - screening). After transformation, the measured variables have been reduced from 6 to 3 columns (one for each variable) and a further column added to represent the visit. This makes querying and filtering the data much easier. 
+
+
+![Level2-Tidy](../../assets/images/examples/level2_tidy.png)
+
+In terms of hosting, level 2 compliant datasets would be hosted in project-specific or institutional data repositories that provide all the 

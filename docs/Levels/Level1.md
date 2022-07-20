@@ -23,3 +23,12 @@ The first step to be at Maturity Level 1 is to define and identify the data obje
 {% for indicator in indicators %}
 {{indicator.content}}
 {% endfor %}
+
+
+## Example
+
+![Level1-Overview](../../assets/images/examples/level1_overview.png)
+
+A Level 1 dataset might involve the publication of analysis-related data in a general purpose repository such as Harvard Dataverse, Zenodo or Figshare, making them findable, citable and available for re-use for the purpose of future analysis validation. Deposition in a repository will give the dataset a **DOI, accession number or other globally unique and persistent identifier**. Repositories generally require some **minimal metadata to describe both the high-level content of the submission and the individual file types**. Indexing this information allows for **searching and retrieval** based on a number of facets.
+
+![Level1-Details](../../assets/images/examples/level1_details.png)
