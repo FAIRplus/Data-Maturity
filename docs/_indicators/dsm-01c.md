@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [dsm-01c](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/dsm-01c.md) |
 | --------- | ----------|
-| Name | [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) \(s) are NOT Identifiable via a Unique Identifiers |
+| Name | [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) \(s) are **NOT** Identifiable via a Unique Identifiers |
 | Maturity Level | 0 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
