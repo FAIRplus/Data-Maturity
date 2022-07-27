@@ -13,6 +13,6 @@ nav_exclude: True
 | Maturity Level | 1 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
-| Description | This is a **metadata-related** requirement. Metadata should include Both access level and conditions  necessary  to potentially gain access to the data. | Related DSM Indicator | N/A |
+| Description | This is a **metadata-related** requirement. Metadata should include Both access level and conditions  necessary  to potentially gain access to the data. | Related DSM Indicator | |
 | Related FAIR Principle | A1. (Meta)data are retrievable by their identifier using a standardised communications protocol |
 | Cross-reference FAIR indicators | RDA-A1-01M, FsF-A1-01M |
