@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [dsm-04r](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/dsm-04r.md) |
 | --------- | ----------|
-| Name | Dataset Descriptor is **NOT** available in a [Machine Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
+| Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) (metadata) is **NOT** available in a [Machine Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
 | Maturity Level | 0 |
 | Category | Metadata Format |
 | Granularity Level | Dataset |
