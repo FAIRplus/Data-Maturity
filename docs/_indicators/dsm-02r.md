@@ -14,6 +14,6 @@ nav_exclude: True
 | Category | Data Representation|
 | Granularity Level | Dataset |
 | Description | This is a ZERO-LEVEL indicator, which indicates the absence of one of the essential requirements for a Dataset to reach minimum level of FAIRness (Level 1) according to the FAIR-DSM model. <br><br> This is indicator refers to a **foundational** requirement to *objectify* and organise 'FAIR-to-be' data into *units* of data that are purposed for FAIR sharing. FAIR-DSM model refers to a *unit* of FAIR data as a [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset). See indicator [dsm-12r](https://fairplus.github.io/Data-Maturity/docs/Indicators/#dsm-12r) to satisfy this prerequisite requirement. |
-| Related F+MM Indicator| N/A |
+| Related DSM Indicator| N/A |
 | Related FAIR Principle | N/A |
 | Cross-reference FAIR indicators | N/A |
