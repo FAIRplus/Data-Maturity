@@ -14,6 +14,6 @@ nav_exclude: True
 | Category | Metadata Representation |
 | Granularity Level | Dataset |
 | Description | The Metadata describing the dataset description is conformed as an object that can be identified and it is called a Dataset Descriptor. |
-| Related DSM Indicator| N/A |
+| Related DSM Indicator| |
 | Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
 | Cross-reference FAIR indicators | RDA-F1-01M |
