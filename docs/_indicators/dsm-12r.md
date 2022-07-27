@@ -14,6 +14,6 @@ nav_exclude: True
 | Category | Data Representation |
 | Granularity Level | Dataset |
 | Description | The Dataset Descriptor of the dataset includes metadata that describes the context in which the dataset was produced within. |
-| Related DSM Indicator| N/A |
+| Related DSM Indicator| |
 | Related FAIR Principle | F2. Data are described with rich metadata |
 | Cross-reference FAIR indicators | RDA-F2-01M |
