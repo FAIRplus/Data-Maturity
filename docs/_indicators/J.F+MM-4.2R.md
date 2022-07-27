@@ -1,13 +1,13 @@
 ---
 layout: default
-title: F+MM-4.2R
+title: F+MM-4.R2
 parent_level: level4
 nav_exclude: True
 ---
 
-## F+MM-4.2R
+## F+MM-4.R2
 
-| Identifier | F+MM-4.2R |
+| Identifier | F+MM-4.R2 |
 | --------- | -----------|
 | Name | Dataset(s) content is semantically represented using [Linked Data Represetations](https://fairplus.github.io/Data-Maturity/docs/Glossary/#linked-data-representation) conforming to a [Semantic Data Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#semantic-data-model) |
 | Maturity Level | 4 |

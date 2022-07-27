@@ -1,13 +1,13 @@
 ---
 layout: default
-title: F+MM-4.2C
+title: F+MM-4.C2
 parent_level: level4
 nav_exclude: True
 ---
 
-## F+MM-4.2C
+## F+MM-4.C2
 
-| Identifier | F+MM-4.2C |
+| Identifier | F+MM-4.C2 |
 | ---------- | -----------|
 | Name | [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)(s) content is harmonised against a designed-for-purpose [Semantic Data Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#semantic-data-model) |
 | Maturity Level | 4 |

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: F+MM-4.6R
+title: F+MM-4.R6
 parent_level: level4
 nav_exclude: True
 ---
 
-## F+MM-4.6R
+## F+MM-4.R6
 
-| Identifier | F+MM-4.6R |
+| Identifier | F+MM-4.R6 |
 | --------- | -----------|
 | Name | If applicable, license information and/or permitted use and accessability to parts of the dataset is formally represented and encoded in a [Machine Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
 | Maturity Level | 4 |
