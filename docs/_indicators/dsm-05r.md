@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [dsm-05r](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/dsm-05r.md) |
 | --------- | ----------|
-| Name | Dataset(s) are NOT available in a [Machine Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
+| Name | Dataset(s) are **NOT** available in a [Machine Readable Format](https://fairplus.github.io/Data-Maturity/docs/Glossary/#machine-readable-format) |
 | Maturity Level | 0 |
 | Category | Data Format |
 | Granularity Level | Dataset |
