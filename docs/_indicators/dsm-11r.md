@@ -1,20 +1,19 @@
 ---
 layout: default
-title: F+MM-1.0R
+title: dsm-11r
 parent_level: level1
 nav_exclude: True
 ---
 
-## F+MM-1.0R
+## dsm-11r
 
-| Identifier | [F+MM-1.0R](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/A.%20F+MM-1.0R.md) |
+| Identifier | [dsm-11r](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/dsm-11r.md) |
 | ---------- | ----------|
 | Name | Dataset Metadata is formally represented in the form of an Identifiable [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor)  |
 | Maturity Level | 1 |
 | Category | Metadata Representation |
 | Granularity Level | Dataset |
-| Description |  |
-| Related F+MM Indicator| |
+| Description | The Metadata describing the dataset description is conformed as an object that can be identified and it is called a Dataset Descriptor. |
+| Related DSM Indicator| N/A |
 | Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
 | Cross-reference FAIR indicators | RDA-F1-01M |
-
