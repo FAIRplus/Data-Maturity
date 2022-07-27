@@ -1,18 +1,18 @@
 ---
 layout: default
-title: F+MM-2.3C
+title: dsm-23c
 parent_level: level2
 nav_exclude: True
 ---
 
-## F+MM-2.3C
+## dsm-23c
 
-| Identifier | [F+MM-2.3C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/E.%20F+MM-2.3C.md) |
+| Identifier | [dsm-23c](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/dsm-23c.md) |
 | ---------- | ----------|
 | Name | [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)(s) include [Reference Fields](https://fairplus.github.io/Data-Maturity/docs/Glossary/#reference-field) that enable joining related datasets |
 | Maturity Level | 2 |
 | Category | Content and Context |
 | Granularity Level | Dataset Fields |
-| Related FAIR Principle |  |
-| Description |  |
+| Description | The Dataset(s) includes Reference Fields that allows the joining of other datasets that might or not be part of the same project. |
+| Related FAIR Principle | |
 | Cross-reference FAIR indicators | |
