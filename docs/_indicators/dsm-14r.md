@@ -14,6 +14,6 @@ nav_exclude: True
 | Category | Metadata Representation |
 | Granularity Level | Dataset |
 | Description | The Dataset Descriptor includes what are considered the essential elements to describe the data. |
-| Related DSM Indicator| N/A |
+| Related DSM Indicator| |
 | Related FAIR Principle | R1.3. (Meta)data meet domain-relevant community standards |
 | Cross-reference FAIR indicators | RDA-R1.3-01M, FsF-R1.3-01M |
