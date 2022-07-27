@@ -13,7 +13,7 @@ nav_exclude: True
 | Maturity Level | 1 |
 | Category | Data Format |
 | Granularity Level | Dataset |
-| Description | This is a **format-related** requirement that focuses on machine-readability aspect of the data. This is a pre-requisite requirement to having the data indexed and searchable in a hosting resource. |
-| Related DSM Indicator| N/A |
+| Description | This is a **format-related** requirement that focuses on machine-readability aspect of the data. This is a pre-requisite requirement to having the data indexed and searchable in a hosting resource (dsm-14h). |
+| Related DSM Indicator| dsm-14h |
 | Related FAIR Principle | F4. (Meta)data are registered or indexed in a searchable resource |
 | Cross-reference FAIR indicators | RDA-I1-01D, FsF-R1.3-02D |
