@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Edit on GitHub":
-    - "//github.com/lauportell/FAIRplus-Data-Maturity/tree/FAIRplus-draft"
+    - "//github.com//FAIRplus/Data-Maturity"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
