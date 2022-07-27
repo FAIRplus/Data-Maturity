@@ -1,13 +1,13 @@
 ---
 layout: default
-title: F+MM-4.1C
+title: F+MM-4.C1
 parent_level: level4
 nav_exclude: True
 ---
 
-## F+MM-4.1C
+## F+MM-4.C1
 
-| Identifier | F+MM-4.1C |
+| Identifier | F+MM-4.C1 |
 | ---------- | ----------|
 | Name | A [Semantic Data Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#semantic-data-model) includes [Study Design Elements](https://fairplus.github.io/Data-Maturity/docs/Glossary/#study-design-element) and the relationships between them |
 | Maturity Level | 4 |

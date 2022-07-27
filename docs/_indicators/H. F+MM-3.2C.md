@@ -1,13 +1,13 @@
 ---
 layout: default
-title: F+MM-3.2C
+title: F+MM-3.C2
 parent_level: level3
 nav_exclude: True
 ---
 
-## F+MM-3.2C
+## F+MM-3.C2
 
-| Identifier | [F+MM-3.2C](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/H.%20F+MM-3.2C.md) |
+| Identifier | [F+MM-3.C2](https://github.com/FAIRplus/Data-Maturity/edit/v0.3/docs/_indicators/H.%20F+MM-3.C2.md) |
 | --------- | ----------|
 | Name | If applicable, [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)(s) content is reported in compliance with relevant community-defined Data [Reporting Guidelines](https://fairplus.github.io/Data-Maturity/docs/Glossary/#reporting-guideline) |
 | Maturity Level | 3 |
