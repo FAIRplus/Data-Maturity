@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-4r
+title: DSM-1-4R
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-4r
+## DSM-1-4R
 
-| Identifier | [DSM-1-4r](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-4r.md) |
+| Identifier | [DSM-1-4R](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-4R.md) |
 | ---------- | ----------|
 | Name | A representation of the [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) conforming to a relevant [General-purpose Metadata Schema](https://fairplus.github.io/Data-Maturity/docs/Glossary/#general-purpose-metadata-schema) is available |
 | Maturity Level | 1 |

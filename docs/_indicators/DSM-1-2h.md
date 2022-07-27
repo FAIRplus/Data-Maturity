@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-2h
+title: DSM-1-2H
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-2h
+## DSM-1-2H
 
-| Identifier | [DSM-1-2h](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-2h.md) |
+| Identifier | [DSM-1-2H](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-2H.md) |
 | ---------- | ----------|
 | Name | The [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) and its [Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) are indexed and retrievable (in the same or separate hosting environments) via unique and persistent identifiers  |
 | Maturity Level | 1 |

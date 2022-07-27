@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-4c
+title: DSM-1-4C
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-4c
+## DSM-1-4C
 
-| Identifier | [DSM-1-4c](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-4c.md) |
+| Identifier | [DSM-1-4C](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-4C.md) |
 | ---------- | ----------|
 | Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) contains access information for the [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)  |
 | Maturity Level | 1 |

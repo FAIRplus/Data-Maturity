@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-3c
+title: DSM-1-3C
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-3c
+## DSM-1-3C
 
-| Identifier | [DSM-1-3c](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-3c.md) |
+| Identifier | [DSM-1-3C](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-3C.md) |
 | ---------- | ----------|
 | Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) includes Identifying and Descriptive Dataset-Level metadata  |
 | Maturity Level | 1 |

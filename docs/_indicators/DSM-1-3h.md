@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-3h
+title: DSM-1-3H
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-3h
+## DSM-1-3H
 
-| Identifier | [DSM-1-3h](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-3h.md) |
+| Identifier | [DSM-1-3H](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-3H.md) |
 | ---------- | ----------|
 | Name | Retrieval of the [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) and the [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) utilises a standardized communication protocol that is open, free and universally implementable |
 | Maturity Level | 1 |

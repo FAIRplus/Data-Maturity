@@ -1,19 +1,19 @@
 ---
 layout: default
-title: DSM-0-1c
+title: DSM-0-1C
 parent_level: level0
 nav_exclude: True
 ---
 
 ## F+MM-0.0C
 
-| Identifier | [DSM-0-1c](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-0-1c.md) |
+| Identifier | [DSM-0-1C](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-0-1C.md) |
 | --------- | ----------|
 | Name | [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) \(s) are **NOT** Identifiable via a Unique Identifiers |
 | Maturity Level | 0 |
 | Category | Content and Context |
 | Granularity Level | Dataset |
-| Description | This is a ZERO-LEVEL indicator, which indicates the absence of one of the essential requirements for a Dataset to reach minimum level of FAIRness (Level 1) according to the FAIR-DSM model. <br><br> See [DSM-1-1c](https://fairplus.github.io/Data-Maturity/docs/Indicators/#DSM-1-1c) to satisfy this prerequisite requirement. |
+| Description | This is a ZERO-LEVEL indicator, which indicates the absence of one of the essential requirements for a Dataset to reach minimum level of FAIRness (Level 1) according to the FAIR-DSM model. <br><br> See [DSM-1-1C](https://fairplus.github.io/Data-Maturity/docs/Indicators/#DSM-1-1C) to satisfy this prerequisite requirement. |
 | Related DSM Indicator| N/A |
 | Related FAIR Principle | N/A |
 | Cross-reference FAIR indicators | N/A |

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-4h
+title: DSM-1-4H
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-4h
+## DSM-1-4H
 
-| Identifier | [DSM-1-4h](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-4h.md) |
+| Identifier | [DSM-1-4H](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-4H.md) |
 | ---------- | ----------|
 | Name | Metadata hosting environment offers the capability to browse and search contents of the [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor)  |
 | Maturity Level | 1 |

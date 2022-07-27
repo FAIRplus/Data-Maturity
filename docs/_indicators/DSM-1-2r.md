@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-2r
+title: DSM-1-2R
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-2r
+## DSM-1-2R
 
-| Identifier | [DSM-1-2r](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-2r.md) |
+| Identifier | [DSM-1-2R](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-2R.md) |
 | ---------- | ----------|
 | Name | [Contextual Metadata](https://fairplus.github.io/Data-Maturity/docs/Glossary/#contextual-metadata) is reported at a summary level and represented in the [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) |
 | Maturity Level | 1 |

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-1r
+title: DSM-1-1R
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-1r
+## DSM-1-1R
 
-| Identifier | [DSM-1-1r](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-1r.md) |
+| Identifier | [DSM-1-1R](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-1R.md) |
 | ---------- | ----------|
 | Name | Dataset Metadata is formally represented in the form of an Identifiable [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor)  |
 | Maturity Level | 1 |

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-2-1c
+title: DSM-2-1C
 parent_level: level2
 nav_exclude: True
 ---
 
-## DSM-2-1c
+## DSM-2-1C
 
-| Identifier | [DSM-2-1c](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-2-1c.md) |
+| Identifier | [DSM-2-1C](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-2-1C.md) |
 | ---------- | ----------|
 | Name | A locally defined [Domain Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#domain-model) contains concepts that describes the overall project/study design, the relationships between the Datasets, the key entities reported within the Datasets and the relationships between them. |
 | Maturity Level | 2 |

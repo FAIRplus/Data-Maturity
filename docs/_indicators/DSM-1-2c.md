@@ -1,13 +1,13 @@
 ---
 layout: default
-title: DSM-1-2c
+title: DSM-1-2C
 parent_level: level1
 nav_exclude: True
 ---
 
-## DSM-1-2c
+## DSM-1-2C
 
-| Identifier | [DSM-1-2c](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-2c.md) |
+| Identifier | [DSM-1-2C](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-2C.md) |
 | ---------- | ----------|
 | Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) includes Descriptive Study/Project-Level summary information  |
 | Maturity Level | 1 |
