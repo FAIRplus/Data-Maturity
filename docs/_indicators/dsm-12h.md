@@ -14,6 +14,6 @@ nav_exclude: True
 | Category | Hosting Environment |
 | Capability | Retrieval Capability |
 | Description | This indicator focuses on the resolvability and persistence of the Identifier, which needs to be guaranteed by the hosting environment. |
-| Related DSM Indicator | N/A |
+| Related DSM Indicator | |
 | Related FAIR Principle | A1. (Meta)data are retrievable by their identifier using a standardised communications protocol |
 | Cross-ref FAIR indicators | RDA-A1-03M, RDA-A1-03D, FsF-F1-02D |
