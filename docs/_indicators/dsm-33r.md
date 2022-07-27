@@ -9,7 +9,7 @@ nav_exclude: True
 
 | Identifier | [dsm-33r](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/dsm-33r.md) |
 | --------- | ----------|
-| Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor)(s) is (are) formally represented and conform(s) to the adopted community or domain-specific standard [Dataset Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-model) |
+| Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor)(s) use community-defined or domain-specific metadata standard |
 | Maturity Level | 3 |
 | Category | Data Representation |
 | Granularity Level | Dataset-level |
