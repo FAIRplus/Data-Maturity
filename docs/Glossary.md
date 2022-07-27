@@ -21,14 +21,8 @@ A controlled terminology is an organized list of terms for the purpose of curati
 ### Data Dictionary
 A data dictionary is a document systematically listing and defining the all data variables recorded / used in a dataset. data variable definition includes provide *Term metadata*, which describe the entity, but also allowed values for that variable, which are know a variable value sets.
 
-### Data Discovery
-Data discovery involves the collection and evaluation of data from various sources and is often used to understand trends and patterns in the data. It requires a progression of steps that organizations can use as a framework to understand their data.
-
-### Data Searching
-Data searching is the process of finding relevant information from the data in a systematic manner.
-
 ### Data Element Level
-The data element level is the smallest unit of data and is descibed by a definite meaning and semantic.
+Definition
 
 ### Data Exchange Model
 A data exchange model is a type of data model specialized devised to enable the transfer of information between systems.
@@ -43,10 +37,10 @@ A data variable is an information entity which can be defined in a data dictiona
 A dataset in the context of the FAIR-DSM model is a data structure that is purposed for FAIR sharing. A dataset in FAIR-DSM-L-1 is a flexible container for any collection of data that is expected to be hosted and served for FAIR data sharing, i.e., Datasets can contain unstructured (e.g., image files) or structured (e.g. clinical data or lab data) data.  Starting with FAIR-DSM-L-2 to FAIR-DSM-L-5, a dataset is expected to refer to a container for structured data, composed of a set of fields and each field is composed of a set of values (value set). In the majority of cases a dataset will be a tabular data structure (delimited text file) or a hierarchical data structure (json or xml)
 
 ### Dataset Descriptor
-A data descriptor is a data structure that contains any information that describes the Dataset, i.e., it is the datas structure representing the dataset's metadata.
+A data descriptor is a metadata record of the dataset which provides information about a dataset.
 
 ### Dataset Field
-A dataset field is an attribute of the dataset, which may be defined in the dataset model.
+A dataset field is an attribute of the dataset, which may be defined in the dataset model (local) or a data model (global).
 
 ### Dataset Field Values
 Dataset field values is a collection of information entities which are allowed for a given dataset field.
@@ -58,22 +52,19 @@ A dataset model is a formal representation devised for a dataset.
 A domain entity is a information element (a type, a concept) core to the description of a given knowledge area.
 
 ### Domain Model
-The domain model is a  formal representation of a knowledge domain with concepts, roles, datatypes, individuals, and rules, typically grounded in a description logic.
-
-### FAIR sharing
-FAIR sharing is a data use case that is intended for a data object (dataset) to exhibit a state of FAIRness purposed for sharing and re-use.
+Definition
 
 ### Field Level Metadata
-The filed level metadata descibed in detail about the data stored in the field either based on the type of data, the usage of data, the data source etc.
+Definition
 
 ### General Purpose Metadata Schema
-Generalised schemas require limited time and expertise, but the description may be inadequate. They include what are considered the essential elements to describe any data. Such schemas usually not domain-specific.
+Definition
 
 ### Generic Data Model
-Generic data models are generalizations of conventional data models that define standardised general relation types, together with the data that may be related or connected by such a relation type.
+Definition
 
 ### Indentifiable Dataset
-Identifiable dataset is any information (personal or indirect) that can link a dataset to its research study.
+Definition
 
 ### Key Master Data Entities
 Definition
@@ -136,10 +127,10 @@ Definition
 Definition
 
 ### Term Metadata
-A term metadata refers to any descriptor of an entity.
+Definition
 
 ### Tidy Data Principles
-Tidy datasets provide a standardized way to link the structure of a dataset (its physical layout) with its semantics (its meaning). In tidy data, each variable forms a column, each observation forms a row and each type of observational unit forms a table.
+Definition
 
 ### Value Level Metadata
 Definition
