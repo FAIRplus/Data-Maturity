@@ -14,6 +14,6 @@ nav_exclude: True
 | Category | Hosting Environment |
 | Capability | Retrieval Capability |
 | Description | Standardised protocol implementation facilitates access of the data and metadata such as HTTP, FTP (e.g. simple links for download). |
-| Related DSM Indicator | N/A |
+| Related DSM Indicator | |
 | Related FAIR Principle | A1.1 The protocol is open, free, and universally implementable. |
 | Cross-ref FAIR indicators | RDA-A1.1-01D |
