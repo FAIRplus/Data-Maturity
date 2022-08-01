@@ -5,7 +5,7 @@ parent_level: level0
 nav_exclude: True
 ---
 
-## F+MM-0.R1
+## DSM-0-R1
 
 | Identifier | [DSM-0-R1](https://github.com/FAIRplus/Data-Maturity/edit/master/docs/_indicators/DSM-0-R1.md) |
 | --------- | ----------|
