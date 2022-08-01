@@ -5,7 +5,7 @@ parent_level: level1
 nav_exclude: True
 ---
 
-## dsm15r
+## DSM-1-R5
 
 | Identifier | [DSM-1-R5](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-R5.md) |
 | ---------- | ----------|
