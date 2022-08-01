@@ -1,18 +1,19 @@
 ---
 layout: default
-title: F+MM-5.C1
+title: DSM-5-C1
 parent_level: level5
 nav_exclude: True
 ---
 
-## F+MM-5.C1
+## DSM-5-C1
 
-| Identifier | F+MM-5.C1 |
+| Identifier | [DSM-5-C1](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-5-C1.md) |
 | --------- | -----------|
-| Name | Field level data is linked and harmonized against enterprise managed Reference Data (e.g. MDR registered Data Elements). |
+| Name | |
 | Maturity Level | 5 |
 | Category | Content and Context |
 | Granularity Level | Dataset Fields |
-| Related FAIR Principle |  |
 | Description |  |
+| Related DSM Indicator | |
+| Related FAIR Principle |  |
 | Cross-reference FAIR indicators |  |
