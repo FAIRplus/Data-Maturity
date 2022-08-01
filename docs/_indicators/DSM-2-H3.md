@@ -1,13 +1,13 @@
 ---
 layout: default
-title: dsm-23h
+title: DSM-2-H3
 parent_level: level2
 nav_exclude: True
 ---
 
-## dsm-23h
+## DSM-2-H3
 
-| Identifier | [dsm-23h](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/dsm-23h.md) |
+| Identifier | [DSM-2-H3](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-2-H3.md) |
 | ---------- | ----------|
 | Name | Data hosting environment offers the capability to browse and search related [Datasets](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) |
 | Maturity Level | 2 |
