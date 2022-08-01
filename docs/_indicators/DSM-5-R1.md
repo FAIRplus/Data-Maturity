@@ -13,6 +13,7 @@ nav_exclude: True
 | Maturity Level | 5 |
 | Category | Data Representation |
 | Granularity Level | Dataset Fields |
-| Related FAIR Principle |  |
 | Description | |
+| Related DSM Indicator | |
+| Related FAIR Principle |  |
 | Cross-reference FAIR indicators |  |
