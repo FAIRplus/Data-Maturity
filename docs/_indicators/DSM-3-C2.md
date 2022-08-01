@@ -7,7 +7,7 @@ nav_exclude: True
 
 ## DSM-3-C2
 
-| Identifier | [F+MM-3.C2](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-3-C2.md) |
+| Identifier | [DSM-3-C2](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-3-C2.md) |
 | --------- | ----------|
 | Name | If applicable, [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset)(s) content is reported in compliance with relevant community-defined Data [Reporting Guidelines](https://fairplus.github.io/Data-Maturity/docs/Glossary/#reporting-guideline) |
 | Maturity Level | 3 |
