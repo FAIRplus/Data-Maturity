@@ -1,13 +1,13 @@
 ---
 layout: default
-title: dsm-21h
+title: DSM-2-H1
 parent_level: level2
 nav_exclude: True
 ---
 
-## dsm-21h
+## DSM-2-H1
 
-| Identifier | [dsm-21h](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/dsm-21h.md) |
+| Identifier | [DSM-2-H1](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-2-H1.md) |
 | ---------- | ----------|
 | Name | Data hosting environment stores data in accordance to a locally defined [Domain Model](https://fairplus.github.io/Data-Maturity/docs/Glossary/#domain-model) for persistence purposes |
 | Maturity Level | 2 |
