@@ -9,11 +9,11 @@ nav_exclude: True
 
 | Identifier | [DSM-1-R1](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-R1.md) |
 | ---------- | ----------|
-| Name | Dataset Metadata is formally represented in the form of an Identifiable [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor)  |
+| Name | [Contextual Metadata](https://fairplus.github.io/Data-Maturity/docs/Glossary/#contextual-metadata) is reported at a summary level and represented in the [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) |
 | Maturity Level | 1 |
-| Category | Metadata Representation |
+| Category | Data Representation |
 | Granularity Level | Dataset |
-| Description | The Metadata describing the dataset description is conformed as an object that can be identified and it is called a Dataset Descriptor. |
+| Description | The Dataset Descriptor of the dataset includes metadata that describes the context in which the dataset was produced within. |
 | Related DSM Indicator| |
-| Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
-| Cross-reference FAIR indicators | RDA-F1-01M |
+| Related FAIR Principle | F2. Data are described with rich metadata |
+| Cross-reference FAIR indicators | RDA-F2-01M |
