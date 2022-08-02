@@ -8,12 +8,12 @@ nav_exclude: True
 ## DSM-1-C1
 
 | Identifier | [DSM-1-C1](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-C1.md) |
-| --------- | ----------|
-| Name | Each [Dataset](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset) purposed for [FAIR sharing](https://fairplus.github.io/Data-Maturity/docs/Glossary/#fair-sharing) and reuse is assigned a unique identifier |
+| ---------- | ----------|
+| Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) includes Descriptive Study/Project-Level summary information  |
 | Maturity Level | 1 |
 | Category | Content and Context |
-| Granularity Level | Dataset |
-| Description | This is a **data-related** requirement. The Dataset is assigned a unique identifier such that it can be referenced unambiguously.|
-| Related FAIR Principle | F1. (Meta)data are assigned a globally unique and persistent identifier |
-| Related DSM Indicator | DSM-1-R2 |
-| Cross-reference FAIR indicators | RDA-F1-02D, FsF-F1-01D |
+| Granularity Level | Project |
+| Description | This is a **metadata-related** requirement. Metadata should include summary information about the study or project that the Data Object is related to. This is basic contextual-metadata that will allow minimum levels of human interpretation of the data being shared. |
+| Related DSM Indicator | |
+| Related FAIR Principle | R1. Meta(data) are richly described with a plurality of accurate and relevant attributes |
+| Cross-reference FAIR indicators | |

@@ -9,11 +9,11 @@ nav_exclude: True
 
 | Identifier | [DSM-1-C2](https://github.com/FAIRplus/Data-Maturity/blob/master/docs/_indicators/DSM-1-C2.md) |
 | ---------- | ----------|
-| Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) includes Descriptive Study/Project-Level summary information  |
+| Name | [Dataset Descriptor](https://fairplus.github.io/Data-Maturity/docs/Glossary/#dataset-descriptor) includes Identifying and Descriptive Dataset-Level metadata  |
 | Maturity Level | 1 |
 | Category | Content and Context |
-| Granularity Level | Project |
-| Description | This is a **metadata-related** requirement. Metadata should include summary information about the study or project that the Data Object is related to. This is basic contextual-metadata that will allow minimum levels of human interpretation of the data being shared. |
+| Granularity Level | Dataset |
+| Description | This is a **metadata-related** requirement. Metadata should include the Dataset Identifier it is describing AND descriptive information about the Dataset as a whole to enable Search-ability and Findability of Data (e.g., name, description, keywords). |
 | Related DSM Indicator | |
-| Related FAIR Principle | R1. Meta(data) are richly described with a plurality of accurate and relevant attributes |
-| Cross-reference FAIR indicators | |
+| Related FAIR Principle | F3. Metadata clearly and explicitly include the identifier of the data they describe, R1. Meta(data) are richly described with a plurality of accurate and relevant attributes. |
+| Cross-reference FAIR indicators | RDA-F3-01M, RDA-F2-01M, F2F-F2-01M, FsF-F3-01M |
