@@ -15,7 +15,7 @@ Dataset Descriptor	A data descriptor is a data structure that contains any infor
 Dataset Field	A dataset field is an attribute of the dataset, which may be defined in a dataset model	creation_date	Philippe		dataset attribute
 Dataset Field Values	Dataset field values is a collection of information entities which are allowed for a given dataset field.	{male,female}	Phillipe		value sets
 Dataset Model	A dataset model is a formal representation devised for the archiving and exchange of domain specific data	HCA,JSON	Philippe		
-Domain Entity	A domain entity is a information element (a type, a concept) core to the description of a given knowledge area	MAGE-OM	Phillipe		
+Domain Entity	A domain entity is an information element (a type, a concept) core to the description of a given knowledge area	Protein	Philippe		
 Domain model	The domain model is a  formal representation of a knowledge domain with concepts, roles, datatypes, individuals, and rules, typically grounded in a description logic.		Yojana	WikiPedia (https://en.wikipedia.org/wiki/Domain_model) 	
 FAIR sharing	FAIR sharing is a data use case that is intended for a data object (dataset) to exhibit a state of FAIRness purposed for sharing and re-use				
 Field level metadata	The filed level metadata descibed in detail about the data stored in the field either based on the type of data, the usage of data, the data source etc.		Yojana		
