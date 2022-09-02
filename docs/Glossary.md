@@ -21,9 +21,6 @@ A controlled terminology is an organized list of terms for the purpose of curati
 ### Data Dictionary
 A data dictionary is a document systematically listing and defining the all data variables recorded / used in a dataset. data variable definition includes provide *Term metadata*, which describe the entity, but also allowed values for that variable, which are know a variable value sets.
 
-### Data Discovery vs Data Searching
-Definition
-
 ### Data Element Level
 Definition
 
@@ -32,9 +29,6 @@ A data exchange model is a type of data model specialized devised to enable the 
 
 ### Data Model/Schema
 A data model is a formal representation of a domain with identified key entities and relations between them.
-
-### Data Object
-Definition
 
 ### Data Variable
 A data variable is an information entity which can be defined in a data dictionary, which has a type and which can assume a range of values.
