@@ -2,7 +2,7 @@ name: dsm-glossary-update
 on:
   push:
     branches:
-      - 'add-glossary'
+      - 'master'
     paths:
       - docs/glossary.tsv
 jobs:
