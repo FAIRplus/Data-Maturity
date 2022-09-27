@@ -30,7 +30,7 @@ nav_order: 4
         else:
             template += ' \n'
 
-    with open('../docs/Glossary.md', 'w') as f:
+    with open('docs/Glossary.md', 'w') as f:
         print(template, file=f)
 
 
