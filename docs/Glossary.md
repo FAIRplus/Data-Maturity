@@ -127,7 +127,7 @@ Study designs are the set of methods and procedures used to collect and analyze 
 An ontology term metadata is any descriptor used to describe an entity in a ontology (or a concept in a SKOS vocabulary).
 
 ### Tidy Data principles 
-Tidy datasets provide a standardized way to link the structure of a dataset (its physical layout) with its semantics (its meaning). In tidy data:
+[Tidy Data](https://arimoroolayinka.medium.com/a-gentle-introduction-to-tidy-data-in-r-b6673b4d304c) provide a standardized way to link the structure of a dataset (its physical layout) with its semantics (its meaning). In tidy data:
 1. Each variable forms a column.
 2. Each observation forms a row.
 3. Each type of observational unit forms a table
