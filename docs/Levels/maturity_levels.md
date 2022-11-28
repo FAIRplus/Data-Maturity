@@ -10,7 +10,7 @@ permalink: /docs/Levels
 
 The FAIRplus-DSM model presents five levels of FAIR. Each level is characterised by increasing requirements across the three categories of the FAIR requirements. The diagram below provides a summary description and perspective for each level.   
 
-![Levels](assets/images/overview/levels_definition.JPG)
+![Levels](../../assets/images/overview/levels_definition.JPG)
 
 ### [Level-1](Level1.md)
 
