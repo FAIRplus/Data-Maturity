@@ -13,7 +13,14 @@ This level of maturity is defined at **cross-community level**. At the level, th
 
 Level 4 is an aspirational level of FAIR maturity. The main focus of Level 4 is establishing semantic interoperability between datasets within and across multiple studies. 
 
-## Indicators
+## Example
+
+![Level4-Overview](../../assets/images/examples/level4_model.png)
+
+
+![Level4-Model](../../assets/images/examples/level4_data.png)
+
+## FAIR-DSM Level 4 Indicators
 
 {% assign indicators = site.indicators | where:"parent_level", "level4" %}
 {% for indicator in indicators %}

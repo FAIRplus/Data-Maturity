@@ -15,15 +15,8 @@ This level of maturity aims to increase the FAIRness level of structured data by
 
 This level of maturity is aimed at data hosted within project-based data repositories, general purpose data repositories or data catalogues.
    
-
-## Indicators
-
-{% assign indicators = site.indicators | where:"parent_level", "level2" %}
-{% for indicator in indicators %}
-{{indicator.content}}
-{% endfor %}
-
-
+In terms of hosting, level 2 compliant datasets would be hosted in project-specific or institutional data repositories that provide all the accessibility and storage capabilities required for sharing and reusing data within project data users.
+   
 ## Example
 
 ![Level2-Overview](../../assets/images/examples/level2_overview.png)
@@ -38,4 +31,13 @@ Where appropriate, datasets should also conform to "Tidy Data Principles", ie ea
 
 ![Level2-Tidy](../../assets/images/examples/level2_tidy.png)
 
-In terms of hosting, level 2 compliant datasets would be hosted in project-specific or institutional data repositories that provide all the 
+## FAIR-DSM Level 2 Indicators
+
+{% assign indicators = site.indicators | where:"parent_level", "level2" %}
+{% for indicator in indicators %}
+{{indicator.content}}
+{% endfor %}
+
+
+
+

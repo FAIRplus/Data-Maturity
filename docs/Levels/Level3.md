@@ -11,13 +11,6 @@ nav_order: 4
 
 This level of maturity is defined at **community level**. The data at this level complies with community standard domain models, terminologies and formats, and is hosted in an environment offering searching and retrieval capabilities.
 
-## Indicators
-
-{% assign indicators = site.indicators | where:"parent_level", "level3" %}
-{% for indicator in indicators %}
-{{indicator.content}}
-{% endfor %}
-
 ## Example
 
 ![Level3-Overview](../../assets/images/examples/level3_overview.png)
@@ -28,3 +21,12 @@ Conformance to a well-defined community model such as the ImmPort one shown belo
 
 
 ![Level3-Model](../../assets/images/examples/level3_model.png)
+
+## FAIR-DSM Level 3 Indicators
+
+{% assign indicators = site.indicators | where:"parent_level", "level3" %}
+{% for indicator in indicators %}
+{{indicator.content}}
+{% endfor %}
+
+
