@@ -138,3 +138,6 @@ Value-level metadata describes the data attributes like type, length, format, co
 ### Data representation 
 Data representation can be referred to as the form in which we stored the data, processed it and transmitted it.
 
+### Data hosting environment 
+Data hosting is the act of storing the data on a stable and accessible web platform. While there is no standard arrangement for providing this service, data hosting does represent a significant commitment that requires dedicated, long-term capacity that maintains a persistent and highly reliable web-connected platform.
+
