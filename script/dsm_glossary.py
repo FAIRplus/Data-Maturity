@@ -7,6 +7,8 @@ def create_md():
         'docs/glossary.tsv', sep='\t', usecols=['TERM', 'DESCRIPTION']
     )
 
+    glossary_file.sort_values(by='TERM', inplace=True)
+
     """Process to create template markdown"""
     template = """---
 layout: default
