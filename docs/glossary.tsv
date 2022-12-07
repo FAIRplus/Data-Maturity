@@ -44,3 +44,4 @@ Tidy Data principles	"[Tidy Data](https://arimoroolayinka.medium.com/a-gentle-in
 2. Each observation forms a row.
 3. Each type of observational unit forms a table"		Testing	https://vita.had.co.nz/papers/tidy-data.pdf	Tidy data
 Value level metadata	Value-level metadata describes the data attributes like type, length, format, controlled terminology, origin, derivation method or comments associated with a subsetted value		Yojana	PharamSUG Paper (https://www.lexjansen.com/pharmasug/2022/QT/PharmaSUG-2022-QT-008.pdf	
+Data representation	Data representation can be referred to as the form in which we stored the data, processed it and transmitted it.	JSON, Excel, SQL, TSV	Yojana	JavaPoint (https://www.javatpoint.com/data-representation-in-computer-organization)	data format
