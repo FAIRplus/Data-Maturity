@@ -135,3 +135,6 @@ An ontology term metadata is any descriptor used to describe an entity in a onto
 ### Value level metadata 
 Value-level metadata describes the data attributes like type, length, format, controlled terminology, origin, derivation method or comments associated with a subsetted value
 
+### Data representation 
+Data representation can be referred to as the form in which we stored the data, processed it and transmitted it.
+
