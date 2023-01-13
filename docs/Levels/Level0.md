@@ -23,7 +23,7 @@ Level 0 is a reference level representing a **state of data** that is missing on
 
 ![Level0-Overview](../../assets/images/examples/level0_overview.png) 
 
-An example of Level 0 datas would be a stand-alone dataset, for example from a PhD project, that is not intended for reuse beyond the immediate project. Data are stored in a non-accessible environment such as a personal computer and metadata are likely in non-machine readable format such as PDFs.
+An example of Level 0 data would be a stand-alone dataset, for example from a PhD project, that is not intended for reuse beyond the immediate project. Data are stored in a non-accessible environment such as a personal computer and metadata are likely in non-machine readable format such as PDFs or even hand-written notes.
 
 No explicit metadata is available to describe directory structures, file types, content or variables. As a result, the dataset can only be understood by the data owner.
 
