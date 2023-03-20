@@ -10,7 +10,7 @@ You are welcome to contribute to the content. The material is developed in markd
 
 - If you want to add content please create a new branch from this one. When you are ready to merge your changes open a pull request against this branch.
 - The content of the website is in markdown files in the [/docs](./docs) directory whereas the images included in the markdown files are in [assets/images](./assets/images).
-- Refer to the [Just the Docs documentation](https://pmarsceill.github.io/just-the-docs/) for usage and customisation information.
+- Refer to the [Just the Docs documentation](https://just-the-docs.github.io/just-the-docs/) for usage and customisation information.
 
 ## License
 
